@@ -4,6 +4,9 @@
 
 header_pages:
   - index.md
+  - biography
+  - discography
+  - photos
   - links.md
   - about.md
 
