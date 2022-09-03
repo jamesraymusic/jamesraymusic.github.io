@@ -1,6 +1,6 @@
 # Where is James Ray ?
 
-This repository host documents, pictures, photos and pages for the website dedicated to [James Ray](https://en.wikipedia.org/wiki/James_Ray_(singer))).
+This repository host documents, pictures, photos and pages for the website dedicated to [James Ray](https://en.wikipedia.org/wiki/James_Ray_(singer)).
 
 If you want to contribute, please contact me: remidebord[at]hotmail.fr
 
