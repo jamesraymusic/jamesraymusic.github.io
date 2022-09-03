@@ -4,6 +4,8 @@ title: Biography
 permalink: /biography/
 ---
 
+# Biography
+
 James Ray remains a tragic footnote in the annals of R&B history -- a gifted singer best remembered for the classic "If You Gotta Make a Fool of Somebody," he died of a drug overdose while his career was still in its infancy.
 
 Born James Ray Raymond in Washington, D.C., in 1941, the diminutive vocalist first surfaced on the Gallant label in 1959 with "Make Her Mine," credited to Little Jimmy Ray (also a nod to his uncanny vocal similarities to R&B legend [Little Willie John](https://www.allmusic.com/artist/little-willie-john-mn0000269972)).
