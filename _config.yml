@@ -1,6 +1,10 @@
-# Example Site settings
+# Site settings
 
 #google_analytics: UA-NNNNNNNN-N
+
+title: Where is James Ray ?
+author: Rémi Debord
+email: remidebord@hotmail.fr
 
 header_pages:
   - index.md

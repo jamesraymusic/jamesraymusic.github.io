@@ -55,6 +55,7 @@ footer { margin-bottom: 20px; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
+.menu ul span { font-size: $base-title-font-size; font-weight: bold; text-align: left; }
 
 /**
  * Form
