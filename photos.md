@@ -4,4 +4,4 @@ title: Photos
 permalink: /photos/
 ---
 
-TODO
+{% include image-gallery.html folder="/uploads/photos" %}

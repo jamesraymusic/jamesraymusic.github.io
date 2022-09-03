@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-0xdeadbeef.
+TODO
