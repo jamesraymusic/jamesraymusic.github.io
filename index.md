@@ -4,4 +4,11 @@ layout: home
 permalink: /
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Born in Washington D.C during the year 1941, James Ray is an African-American singer also known as Little Jimmy Ray in the earliest of his career.
+He is known for the songs "If You Gotta Make a Fool of Somebody" (number 22 on the Billboard Hot 100 in 1962) and for the original version of "[I Got My Mind Set on You](https://www.youtube.com/watch?v=qSCEie9KqvQ)" which met fame with the [George Harrison version](https://www.youtube.com/watch?v=6ZwjdGSqO0k).
+
+James Ray died from a drug overdose in 1963, 10 months after the release of his first album (James Ray LP), which includes underrated songs like "[St. James Infirmary](https://www.youtube.com/watch?v=lAP2bfSE_2s)", "[Without A Song](https://www.youtube.com/watch?v=vVQ447pzuzU)", "[It's Been A Drag](https://www.youtube.com/watch?v=Z8zyY8Q37fk)" and many others.
+
+Died to soon and without any considerations (date of death and his burial place remains unknown), this artist deserves better.
+"Where is James Ray ?" website is a tribute to James and intend to gather informations, photos, any documents about Ray's life. 
+If you met him or know something, please contact us: remidebord[at]hotmail.fr.
