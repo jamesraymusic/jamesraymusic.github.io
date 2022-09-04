@@ -6,8 +6,8 @@
  * Style variables
  */
 
-$site-name-font-family: 'Content' !default;
-$site-name-font-size:   20px !default;
+$website-name-font-family: 'Content' !default;
+$website-name-font-size:   20px !default;
 
 $base-font-family:     'Open Sans', sans-serif !default;
 $base-title-font-size: 16px !default;
@@ -59,7 +59,7 @@ footer { margin-bottom: 20px; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
-.menu ul span { font-size: $base-title-font-size; font-weight: bold; float: left; }
+.menu ul span { font-family: $website-name-font-family; font-size: $website-name-font-size; font-weight: bold; float: left; }
 
 /**
  * Form
