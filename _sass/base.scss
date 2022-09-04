@@ -61,6 +61,7 @@ footer { margin-bottom: 20px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
 .menu ul span { font-family: $website-name-font-family; font-size: $website-name-font-size; font-weight: bold; float: left; }
+.menu ul span a { text-decoration: none; }
 
 /**
  * Form
