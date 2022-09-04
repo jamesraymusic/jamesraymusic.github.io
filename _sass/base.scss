@@ -1,10 +1,14 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Content:400,700');
 
 /**
  * Style variables
  */
+
+$site-name-font-family: 'Content' !default;
+$site-name-font-size:   20px !default;
+
 $base-font-family:     'Open Sans', sans-serif !default;
 $base-title-font-size: 16px !default;
 $base-font-size:       14px !default;
