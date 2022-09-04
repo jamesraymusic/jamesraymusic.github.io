@@ -14,7 +14,7 @@ header_pages:
   - references.md
   - about.md
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow us on <a href="https://www.youtube.com/channel/UCf2aiQn8DLene52B7hz0tzA/videos">Youtube</a> and <a href="https://twitter.com/">twitter</a>'
 
 style: light
 #listen_for_clients_preferred_style: true # true or false (default)
