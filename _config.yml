@@ -6,6 +6,10 @@ title: Where is James Ray ?
 author: Rémi Debord
 email: remidebord@hotmail.fr
 
+url: https://remidebord.github.io/whereisjamesray/
+baseurl: /whereisjamesray
+description: unofficial website on James Ray  
+
 header_pages:
   - index.md
   - biography.md
