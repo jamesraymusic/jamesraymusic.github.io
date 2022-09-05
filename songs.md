@@ -6,7 +6,7 @@ permalink: /songs/
 
 # Songs
 
-James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) and Hutch Davie orchestra made great songs togethers. Most of them are availables in "[James Ray LP](https://www.discogs.com/release/3221079-James-Ray-James-Ray)" album or in the posthumous LP album named "[Itty Bitty Pieces](https://www.discogs.com/release/3016494-James-Ray-Itty-Bitty-Pieces)". Few ones are only availables in singles.
+James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) and Hutch Davie orchestra made great songs togethers. Most of them are availables in "[James Ray LP](https://www.discogs.com/release/3221079-James-Ray-James-Ray)" album or in the posthumous LP album named "[Itty Bitty Pieces](https://www.discogs.com/release/3016494-James-Ray-Itty-Bitty-Pieces)".
 
 | Title | Writer(s) | Label(s) | Date | 
 | --- | --- | --- | --- |
