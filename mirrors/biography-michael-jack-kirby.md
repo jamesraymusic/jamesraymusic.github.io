@@ -4,7 +4,7 @@ title: Mirror Biography Michael Jack Kirby
 permalink: /biography-michael-jack-kirby/
 ---
 
-# JAMES RAY - If You Gotta Make a Fool of Somebody
+# [Mirror] James Ray - If You Gotta Make a Fool of Somebody
 
 Making the move from Washington, D.C. to New York City in 1959, aspiring just-turned-18 singer **James Ray Raymond** was ushered into a recording studio shortly after arrival, resulting in a single for Gallant, one of **George Goldner's** labels from the Gone/End/Gee group. As **Little Jimmy Ray** (his general appearance similar to short-in-stature hitmaker **Little Willie John**, though vocally they were quite dissimilar), his A side ballad _**"Make Her Mine"**_ written by singer and **Chantels** mentor **Richard Barrett**, was flipped with _**"You Need to Fall in Love"**_ penned by Raymond, its melody and arrangement a blatant imitation of John's signature tune _"Fever"_ But as easy as it had been to break into the business, so was it tough going for the next two years.
 

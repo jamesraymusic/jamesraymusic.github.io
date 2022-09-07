@@ -4,7 +4,7 @@ title: Mirror Biography Jason Ankeny
 permalink: /biography-jason-ankeny/
 ---
 
-# Jame Ray biography by Jason Ankeny
+# [Mirror] Jame Ray biography by Jason Ankeny
 
 James Ray remains a tragic footnote in the annals of R&B history -- a gifted singer best remembered for the classic "If You Gotta Make a Fool of Somebody," he died of a drug overdose while his career was still in its infancy.
 
