@@ -23,3 +23,6 @@ permalink: /references/
 - [James Ray - Discography](https://www.45cat.com/artist/james-ray). 45cat.com.
 - Dave Stephens. [James Ray: Anatomy Of a one hit wonder #2](https://www.toppermost.co.uk/james-ray/), toppermost.co.uk. [[Mirror]](./mirrors/biography-dave-stephens.md).
 - Rick Bellaire & Mike Edwards. [The Gerry Granahan Story](https://www.ripopmusic.org/musical-artists/musicians/gerry-granahan/). Rhode Island Music Hall of Fame Historical Archive, ripopmusic.org.
+- [James Ray Fan Club](https://www.facebook.com/jamesray.fanclub.33?fref=ufi&rc=p). facebook.com.
+- Graham Reid. [James Ray: Got My Mind Set on You (1962)](https://www.elsewhere.co.nz/fromthevaults/6206/james-ray-got-my-mind-set-on-you-1962/). elsewhere.co.nz
+- [George Harrison holidays with his sister Louise in Benton, IL, USA](https://www.beatlesbible.com/1963/09/16/george-harrison-holiday-america/). The Beatles Bible, beatlesbible.com.
