@@ -21,3 +21,4 @@ permalink: /references/
 - [James Ray - 60s Washington DC singer](https://musicbrainz.org/artist/8de7c44d-a129-4216-b8b6-2757df89b89e). MusicBrainz.
 - [James Ray - Biography](https://www.muziekweb.nl/Link/M00000090893/POPULAR/James-Ray). muziekweb.nl.
 - [James Ray - Discography](https://www.45cat.com/artist/james-ray). 45cat.com.
+- Dave Stephens. [James Ray: Anatomy Of a one hit wonder #2](https://www.toppermost.co.uk/james-ray/), toppermost.co.uk. [[Mirror]](./mirrors/biography-dave-stephens.md).
