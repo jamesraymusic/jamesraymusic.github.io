@@ -22,3 +22,4 @@ permalink: /references/
 - [James Ray - Biography](https://www.muziekweb.nl/Link/M00000090893/POPULAR/James-Ray). muziekweb.nl.
 - [James Ray - Discography](https://www.45cat.com/artist/james-ray). 45cat.com.
 - Dave Stephens. [James Ray: Anatomy Of a one hit wonder #2](https://www.toppermost.co.uk/james-ray/), toppermost.co.uk. [[Mirror]](./mirrors/biography-dave-stephens.md).
+- Rick Bellaire & Mike Edwards. [The Gerry Granahan Story](https://www.ripopmusic.org/musical-artists/musicians/gerry-granahan/). Rhode Island Music Hall of Fame Historical Archive, ripopmusic.org.
