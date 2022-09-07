@@ -16,8 +16,8 @@ permalink: /references/
 - Jason Ankeny. [James Ray - Biography & History](https://www.allmusic.com/artist/james-ray-mn0000807815). AllMusic. [[Mirror]](./mirrors/biography-jason-ankeny.md)
 - Stephen Thomas Erlewine (August 18, 1939). [Maxine Brown - Biography & History](https://www.allmusic.com/artist/maxine-brown-mn0000396154/biography). AllMusic.
 - "[James Ray](https://www.discogs.com/artist/884155)". Discogs.
-- Michael Jack Kirby, [James Ray - If You Gotta Make a Fool of Somebody](http://www.waybackattack.com/rayjames.html). Way Back Attack. [[Mirror]](./mirrors/biography-michael-jack-kirby.md)
-- Dik de Heer, [This is My Story, James Ray](https://tims.blackcat.nl/messages/james_ray.htm). tims.blackcat.nl.
+- Michael Jack Kirby, [James Ray - If You Gotta Make a Fool of Somebody](http://www.waybackattack.com/rayjames.html). Way Back Attack. [[Mirror]](./mirrors/biography-michael-jack-kirby.md).
+- Dik de Heer, [This is My Story, James Ray](https://tims.blackcat.nl/messages/james_ray.htm). tims.blackcat.nl. [[Mirror]](./mirrors/biography-dik-de-heer.md).
 - [James Ray - 60s Washington DC singer](https://musicbrainz.org/artist/8de7c44d-a129-4216-b8b6-2757df89b89e). MusicBrainz.
 - [James Ray - Biography](https://www.muziekweb.nl/Link/M00000090893/POPULAR/James-Ray). muziekweb.nl.
 - [James Ray - Discography](https://www.45cat.com/artist/james-ray). 45cat.com.
