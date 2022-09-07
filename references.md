@@ -26,3 +26,5 @@ permalink: /references/
 - [James Ray Fan Club](https://www.facebook.com/jamesray.fanclub.33?fref=ufi&rc=p). facebook.com.
 - Graham Reid. [James Ray: Got My Mind Set on You (1962)](https://www.elsewhere.co.nz/fromthevaults/6206/james-ray-got-my-mind-set-on-you-1962/). elsewhere.co.nz
 - [George Harrison holidays with his sister Louise in Benton, IL, USA](https://www.beatlesbible.com/1963/09/16/george-harrison-holiday-america/). The Beatles Bible, beatlesbible.com.
+- [James Ray Memorial](https://fr.findagrave.com/memorial/65833741/james-ray). Find a Grave, findagrave.com.
+- [ The complete James Ray: 27 Tracks](http://musenick.blogspot.com/2013/12/the-allegedly-complete-james-ray-if-you.html). blogspot.com.
