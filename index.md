@@ -1,5 +1,5 @@
 ---
-title: Where is James Ray ?
+title: /
 layout: home
 permalink: /
 ---

@@ -13,7 +13,8 @@ Currently the website (which expect to become the main source of informations ab
 - Photos (newspaper extract for the most, or vinyl cover).
 - A references page, where you can find informations, quotes about James Ray or persons related to him.
 
-<br>
+<!-- end of the list -->
+
 Next steps planned:
 - Continue the lyrics transcription.
 - Fill the About page.
@@ -22,7 +23,8 @@ Next steps planned:
 - Work on the SEO part for more visibility.
 - Contact persons who worked with James Ray, met him, or know persons who possess any informations/documents about him (by far the most important step, and probably the topic of the next update).
 
-<br>
+<!-- end of the list -->
+
 As you can see, there is still a lot of work to do, and if someone is interested and want to join/contribute, please contact me: [remidebord[at]hotmail.fr](mailto:remidebord@hotmail.fr).
 
 Website is hosted by Github, and repo is available here: [github.com/remidebord/whereisjamesray](https://github.com/remidebord/whereisjamesray).
