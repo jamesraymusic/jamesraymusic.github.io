@@ -28,12 +28,12 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | [Welcome To The Floor](https://www.youtube.com/watch?v=xDs6FBXgC60)<br><sup>Written by - Rudy Clark, Bob Davie</sup> | Caprice | July 1962 | None |
 | [Always](https://www.youtube.com/watch?v=RwJwHDQvj_s)<br><sup>Written by - Irving Berlin</sup> | Dynamic Sound | December 1962 | [Lyrics](./lyrics/always.md) |
 | [Marie](https://www.youtube.com/watch?v=xVRQULoAq8U)<br><sup>Written by - Irving Berlin</sup> | Congress | February 1963 | [Lyrics](./lyrics/marie.md) |
-| [Do The Monkey](https://www.youtube.com/watch?v=4VttO0uJH_Q)<br><sup>Darin Bobby, Rudy Clark</sup> | Congress | September 1963 | [Lyrics](./Lyrics/do-the-monkey.md) |
+| [Do The Monkey](https://www.youtube.com/watch?v=4VttO0uJH_Q)<br><sup>Darin Bobby, Rudy Clark</sup> | Congress | September 1963 | [Lyrics](./lyrics/do-the-monkey.md) |
 | [Put Me In Your Diary](https://www.youtube.com/watch?v=sTOyZlzDekQ)<br><sup>Written by - Rudy Clark</sup> | Congress | September 1963 | [Lyrics](./lyrics/put-me-in-your-diary.md) |
 | [(I'm Afraid) The Masquerade Is Over](https://www.youtube.com/watch?v=aEqzGMSyVOU)<br><sup>Written by - Herb Magidson, Allie Wrubel</sup> | Congress | November 1963 | [Lyrics](./lyrics/i-m-afraid-the-masquerade-is-over.md) |
 | [One By One](https://www.youtube.com/watch?v=qAnOf4q-6uA)<br><sup>Written by - Rudy Clark</sup> | Congress | November 1963 | [Lyrics](./lyrics/one-by-one.md) |
 | [We Got A Thing Goin' On](https://www.youtube.com/watch?v=jUdfMkWEpFQ)<br><sup>Written by - Northern, Briggs</sup> | Congress | July 1964 | [Lyrics](./lyrics/we-got-a-thing-going-on.md) |
 | [On That Day](https://www.youtube.com/watch?v=Lg7g_tXujyg)<br><sup>Written by - Northern, Briggs</sup> | Congress | July 1964 | [Lyrics](./lyrics/on-that-day.md) |
 | [(I'm Not) Guilty](https://www.youtube.com/watch?v=ErTy6JLe9c0)<br><sup>Written by - Unkown</sup> | Charly | 1983 (posthumous) | [Lyrics](./lyrics/i-m-not-guilty.md) |
-| [I'm Gonna Keep On Trying](https://www.youtube.com/watch?v=qbvnqetOx5k)<br><sup>Written by - Unkown</sup> | Charly | 1983 (posthumous) | None |
+| [I'm Gonna Keep On Trying](https://www.youtube.com/watch?v=qbvnqetOx5k)<br><sup>Written by - Unkown</sup> | Charly | 1983 (posthumous) | [Lyrics](./lyrics/i-m-gonna-keep-on-trying.md) |
 
