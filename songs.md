@@ -16,7 +16,7 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | [It's Been A Drag](https://www.youtube.com/watch?v=Z8zyY8Q37fk)<br><sup>Written by - Rudy Clark</sup> | Caprice | October 1961 | None |
 | [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y)<br><sup>Written by - Rudy Clark</sup> | Smash / Caprice | March 1962 | [Lyrics](./lyrics/itty-bitty-pieces.md) |
 | [You Remember The Face](https://www.youtube.com/watch?v=ZR7JAQcVPgM)<br><sup>Written by - Rudy Clark</sup> | Caprice | March 1962 | None |
-| [A Miracle](https://www.youtube.com/watch?v=s9y2VSHu2I8)<br><sup>Written by - Clint Ballard Jr., Larry Kusik</sup> | June 1962 | [Lyrics](./lyrics/a-miracle.md) | Caprice |
+| [A Miracle](https://www.youtube.com/watch?v=s9y2VSHu2I8)<br><sup>Written by - Clint Ballard Jr., Larry Kusik</sup> | June 1962 | Caprice | [Lyrics](./lyrics/a-miracle.md) |
 | [Things Are Gonna Be Different](https://www.youtube.com/watch?v=_78nuECv3Do)<br><sup>Written by - Rudy Clark</sup> | Caprice | June 1962 | None |
 | [I've Got My Mind Set On You](https://www.youtube.com/watch?v=dSNbpBOf80A)<br><sup>Written by - Rudy Clark</sup> | Dynamic Sound | July 1962 | None |
 | [The Old Man And The Mule](https://www.youtube.com/watch?v=9H6uo_a24xU)<br><sup>Written by - Rudy Clark</sup> | Caprice / Congress | July 1962 | None |
