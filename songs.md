@@ -10,7 +10,7 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 
 | Title | Label(s) | Date | Document(s) |
 | --- | --- | --- | --- |
-| <details><summary>[Make Her Mine](https://www.youtube.com/watch?v=r0ptmu3QHI8)</summary>Written by - Little Jimmy Ray</details> | Galliant | September 1959 |  None |
+| <details>\<summary\>[Make Her Mine](https://www.youtube.com/watch?v=r0ptmu3QHI8)\<\summary\>Written by - Little Jimmy Ray</details> | Galliant | September 1959 |  None |
 | <details><summary>[You Need To Fall In Love](https://www.youtube.com/watch?v=a21ujJ22t3s)</summary>Written by - Little Jimmy Ray</details> | Galliant | September 1959 | None |
 | <details><summary>[If You Gotta Make A Fool Of Somebody](https://www.youtube.com/watch?v=sperNZW6A8k)</summary>Written by - Rudy Clark</details> | Caprice | October 1961 | [Lyrics](./lyrics/if-you-gotta-make-a-fool-of-somebody.md) |
 | <details><summary>[It's Been A Drag](https://www.youtube.com/watch?v=Z8zyY8Q37fk)</summary>Written by - Rudy Clark</details> | Caprice | October 1961 | None |
