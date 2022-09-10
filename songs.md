@@ -22,7 +22,7 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | [The Old Man And The Mule](https://www.youtube.com/watch?v=9H6uo_a24xU)<br><sup>Written by - Rudy Clark</sup> | Caprice / Congress | July 1962 | None |
 | [Lazy Bones](https://www.youtube.com/watch?v=Apj1Cvkc55o)<br><sup>Written by - Hoagy Carmichael, Johnny Mercer</sup> | Caprice | July 1962 | None |
 | [St. James Infirmary](https://www.youtube.com/watch?v=lAP2bfSE_2s)<br><sup>Arranged by - Bob Davie</sup> | Caprice | July 1962 | None |
-| [Come Rain Or Come Shine](https://www.youtube.com/watch?v=2uZ1bjzcJME)<br><sup>Written by - Mercer - Arlen</sup> | Caprice | July 1962 | None |
+| [Come Rain Or Come Shine](https://www.youtube.com/watch?v=2uZ1bjzcJME)<br><sup>Written by - Johnny Mercer, Harold Arlen</sup> | Caprice | July 1962 | None |
 | [Without A Song](https://www.youtube.com/watch?v=vVQ447pzuzU)<br><sup>Written by - Vincent Youman</sup> | Caprice | July 1962 | None |
 | [Teach Me Tonight](https://www.youtube.com/watch?v=Z3g0ktzpZXs)<br><sup>Written by - Gene De Paul, Sammy Cahn</sup> | Caprice | July 1962 | None |
 | [Welcome To The Floor](https://www.youtube.com/watch?v=xDs6FBXgC60)<br><sup>Written by - Rudy Clark, Bob Davie</sup> | Caprice | July 1962 | None |
@@ -36,6 +36,4 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | [On That Day](https://www.youtube.com/watch?v=Lg7g_tXujyg)<br><sup>Written by - Northern, Briggs</sup> | Congress | July 1964 | None |
 | [(I'm Not) Guilty](https://www.youtube.com/watch?v=ErTy6JLe9c0)<br><sup>Written by - Unkown</sup> | Charly | 1983 (posthumous) | None |
 | [I'm Gonna Keep On Trying](https://www.youtube.com/watch?v=qbvnqetOx5k)<br><sup>Written by - Unkown</sup> | Charly | 1983 (posthumous) | None |
-
-
 
