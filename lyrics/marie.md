@@ -6,89 +6,89 @@ permalink: /marie/
 
 # Lyrics - Marie
 
-I've got a girl and her name is sweet Marie.
+I've got a girl and her name is sweet Marie
 
 [Chorus]
-Ahah.
+Ahah
 
-I've got a girl and her name is sweet Marie.
-
-[Chorus]
-Ahah.
-
-We have been all night and ..., anyone can see.
+I've got a girl and her name is sweet Marie
 
 [Chorus]
-Ahah.
+Ahah
 
-I'm talking about Marie.
-
-[Chorus]
-Marie.
-
-Marie.
+We have been all night and ..., anyone can see
 
 [Chorus]
-Marie.
+Ahah
 
-Marie.
+I'm talking about Marie
 
 [Chorus]
-Marie.
+Marie
 
-Marie.
+Marie
+
+[Chorus]
+Marie
+
+Marie
+
+[Chorus]
+Marie
+
+Marie
 
 [Chorus]
 Marie, Marie, ...
 
-Oooh, Marie,
-Oooh, gone the week-end,
-Oooh, Marie, so you will be away again,
-I just to find that your heart is ...,
-Until has gonna fall,
-As you recall,
-The moon and all,
-It's splender,
-All that kiss,
-So whole and tender,
-And the words, haven't you gone surrender,
-To me, my sweet, my sweet, Marie.
+Oooh, Marie
+Oooh, gone the week-end
+Oooh, Marie, so you will be away again
+I just to find that your heart is ...
+Until has gonna fall
+As you recall
+The moon and all
+It's splender
+All that kiss
+So whole and tender
+And the words, haven't you gone surrender
+To me, my sweet, my sweet, Marie
 
 Marie, Marie, Marie
 ...
-Ooh, Marie,
-You soon gonna be a week end,
+Ooh, Marie
+You soon gonna be a week end
 You gonna find ...
 ...
 
 [Chorus]
 Indeed
 
-Empty.
+Empty
 
 [Chorus]
-You fall.
+You fall
 
-As gonna fall.
+As gonna fall
 
 [Chorus]
-And you recall.
+And you recall
 
-Ooh, the moon, the moon, the moon,
-And all it's splender,
-And your kiss, your kiss,
-So sweet and tender,
-And the word, that you gonna surrender,
-To me,
-my sweet Marie.
+Ooh, the moon, the moon, the moon
+And all it's splender
+And your kiss, your kiss
+So sweet and tender
+And the word, that you gonna surrender
+To me
+my sweet Marie
 
 [Chorus]
 Marie, Marie, ...
 
-You know i'm talking about,
-You know i'm talking about,
-I'm talking about,
-I'm talking about,
+You know i'm talking about
+You know i'm talking about
+I'm talking about
+I'm talking about
 
 
 
