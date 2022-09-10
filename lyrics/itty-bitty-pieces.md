@@ -6,9 +6,9 @@ permalink: /itty-bitty-pieces/
 
 # Lyrics - Itty Bitty Pieces
 
-(You're breaking me up
+_(You're breaking me up
 And I don't mean maybe
-It's too late)...
+It's too late)..._
 Little itty bitty pieces, baby
 
 First, you promise me your love
@@ -20,12 +20,12 @@ And you just don't do it
 Let me tell you about my mind reactin' to it
 
 [Chorus]
-I'm about to...
+_I'm about to...
 Go to pieces, go to pieces
 Go to pieces, wooooo
 You're breaking me up
 And I don't mean maybe
-Into little itty bitty pieces, baby
+Into little itty bitty pieces, baby_
 
 When your kisses start to gettin' good
 That's when you end it
@@ -35,7 +35,13 @@ Now I've got to take some pills
 With tranquilizers in it
 That is what my family doctor recommended
 
-(Repeat Chorus)
+[Chorus]
+_I'm about to...
+Go to pieces, go to pieces
+Go to pieces, wooooo
+You're breaking me up
+And I don't mean maybe
+Into little itty bitty pieces, baby_
 
 Today you want my love
 Tomorrow you don't want it

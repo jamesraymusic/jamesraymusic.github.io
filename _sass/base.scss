@@ -28,7 +28,7 @@ p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
-sup { vertical-align: super; font-size: smaller; text-indent: 20px;}
+
 /**
  * Layout
  */
@@ -147,3 +147,5 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
  */
 
 main p img { float: right; width: 200px; padding-left: 20px; }
+sup { vertical-align: super; font-size: smaller; padding-left: 20px;}
+table { width:100%; }
