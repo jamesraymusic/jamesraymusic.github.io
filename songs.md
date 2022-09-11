@@ -25,7 +25,7 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | [Come Rain Or Come Shine](https://www.youtube.com/watch?v=2uZ1bjzcJME)<br><sup>Written by - Johnny Mercer, Harold Arlen</sup> | Caprice | July 1962 | None |
 | [Without A Song](https://www.youtube.com/watch?v=vVQ447pzuzU)<br><sup>Written by - Vincent Youman</sup> | Caprice | July 1962 | None |
 | [Teach Me Tonight](https://www.youtube.com/watch?v=Z3g0ktzpZXs)<br><sup>Written by - Gene De Paul, Sammy Cahn</sup> | Caprice | July 1962 | None |
-| [Welcome To The Floor](https://www.youtube.com/watch?v=xDs6FBXgC60)<br><sup>Written by - Rudy Clark, Bob Davie</sup> | Caprice | July 1962 | None |
+| [Welcome To The Floor](https://www.youtube.com/watch?v=xDs6FBXgC60)<br><sup>Written by - Rudy Clark, Bob Davie</sup> | Caprice | July 1962 | [Lyrics](./lyrics/welcome-to-the-floor.md) |
 | [Always](https://www.youtube.com/watch?v=RwJwHDQvj_s)<br><sup>Written by - Irving Berlin</sup> | Dynamic Sound | December 1962 | [Lyrics](./lyrics/always.md) |
 | [Marie](https://www.youtube.com/watch?v=xVRQULoAq8U)<br><sup>Written by - Irving Berlin</sup> | Congress | February 1963 | [Lyrics](./lyrics/marie.md) |
 | [Do The Monkey](https://www.youtube.com/watch?v=4VttO0uJH_Q)<br><sup>Darin Bobby, Rudy Clark</sup> | Congress | September 1963 | [Lyrics](./lyrics/do-the-monkey.md) |
