@@ -8,8 +8,8 @@ permalink: /do-the-monkey/
 
 [Monkey sounds]
 
-Walks ...
-Way down in ... land
+Walks [...]
+Way down in [...] land
 A monkey head in a tree top
 And jump down on his man
 The heart jump like a goose
@@ -22,12 +22,12 @@ Monkey, do the monkey
 Do the monkey, do
 
 [Women]
-Teach the monkey to me
+_Teach the monkey to me_
 
 I teach the monkey to you
 Monkey, do the monkey
 
-...
+[...]
 And you down way down
 Put your hands on your hips
 And you shake it all around
@@ -41,7 +41,7 @@ Monkey, do the monkey
 Do the monkey, do
 
 [Women]
-Play the monkey with me
+_Play the monkey with me_
 
 Yes, i'm monkey with you
 
@@ -52,7 +52,7 @@ Monkey, do the monkey
 Do the monkey, do
 
 [Women]
-Play the monkey with me
+_Play the monkey with me_
 
 Yes, i'm monkey with you
 

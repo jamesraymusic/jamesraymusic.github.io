@@ -49,8 +49,8 @@ To do it, to do it, to do it, to do it, to do it
 To do it, to do it, to do it, to do it
 
 [Chorus]
-_I've got my mind set on you
-I know what I've got to do_
+_I've got my mind set on you_
+_I know what I've got to do_
 
 It's gonna take money
 Whole lotta spending money
@@ -64,10 +64,10 @@ To do it, to do it, to do it, to do it, to do it
 To do it, oh yeah
 
 [Chorus]
-_Everywhere I go you know
-Bad luck follows me
-Every time I fall in love
-I'm left in misery_
+_Everywhere I go you know_
+_Bad luck follows me_
+_Every time I fall in love_
+_I'm left in misery_
 
 This time I really feel
 I feel that it's really real

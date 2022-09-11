@@ -39,4 +39,4 @@ And sent you down for me to love
 It was a miracle
 A miracle
 Heaven created a miracle
-And sent you down...
+And sent you down [...]

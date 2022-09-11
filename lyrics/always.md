@@ -10,33 +10,33 @@ I will be loving you
 Always
 
 [Chorus]
-Always
+_Always_
 
 We fall in love thats true
 Always
 
 [Chorus]
-Always
+_Always_
 
 When the things you plan
-Laid up ...
+Laid up [...]
 I wont understand
 Always
 
 [Chorus]
-Always
+_Always_
 
 They may not be fair
 Always
 
 [Chorus]
-Not be fair
+_Not be fair_
 
 That's why i will be there
 Always
 
 [Chorus]
-Not for
+_Not for_
 
 Not for to send our word
 TODO...

@@ -7,18 +7,18 @@ permalink: /i-m-afraid-the-masquerade-is-over/
 # Lyrics - (I’m Afraid) The Masquerade Is Over
 
 [Chorus]
-I'm afraid the masquerade is over
-And so is all, and so love
+_I'm afraid the masquerade is over_
+_And so is all, and so love_
 
 Your eyes
 don't shine
 Like they use to shine
 And the thrill is gone
 When your lips
-...
+[...]
 
 [Chorus]
-I'm afraid the masquerade is over
+_I'm afraid the masquerade is over_
 
 And so is all, and so is love
 
@@ -29,7 +29,7 @@ They want inspire
 Now they are just routine
 
 [Chorus]
-I'm afraid the masquerade is over
+_I'm afraid the masquerade is over_
 
 And so is all, and so is love
 I guess i have to play mariachi
@@ -46,6 +46,6 @@ You are not
 the same
 
 [Chorus]
-I'm afraid the masquerade is over
+_I'm afraid the masquerade is over_
 
 And so is all, and so is love

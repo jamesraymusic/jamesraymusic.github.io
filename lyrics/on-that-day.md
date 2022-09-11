@@ -19,12 +19,12 @@ That's the way, that i my baby
 Let me tell you
 
 [Chorus]
-On that day
+_On that day_
 
 She was looking very good
 
 [Chorus]
-On that day
+_On that day_
 
 When she told me
 She have been love me
@@ -41,12 +41,12 @@ That's the way, that i would get
 Let me tell you
 
 [Chorus]
-On that day
+_On that day_
 
 I'm in love with my baby
 
 [Chorus]
-On that day
+_On that day_
 
 When she told me
 She have been love me
@@ -56,41 +56,41 @@ All so bright
 When my baby walked away from me
 And turned my day into shore and night
 You know the red bird stop singing
-...
+[...]
 Yeah
 
 [Chorus]
-Yeah
-
-Yeah
-
-[Chorus]
-Yeah
+_Yeah_
 
 Yeah
 
 [Chorus]
-Yeah
+_Yeah_
 
 Yeah
 
 [Chorus]
+_Yeah_
+
 Yeah
-On that day
+
+[Chorus]
+_Yeah_
+_On that day_
 
 Oooh, my baby left me
 
 [Chorus]
-On that day
+_On that day_
 
 Feeling seul and blue
 
 [Chorus]
-On that day
+_On that day_
 
 And i don't wanna feel bad
 
 [Chorus]
-On that day
+_On that day_
 
 Please somebody help me

@@ -9,17 +9,17 @@ permalink: /marie/
 I've got a girl and her name is sweet Marie
 
 [Chorus]
-Ahah
+_Ahah_
 
 I've got a girl and her name is sweet Marie
 
 [Chorus]
-Ahah
+_Ahah_
 
-We have been all night and ..., anyone can see
+We have been [all night and ...], anyone can see
 
 [Chorus]
-Ahah
+_Ahah_
 
 I'm talking about Marie
 
@@ -29,22 +29,22 @@ Marie
 Marie
 
 [Chorus]
-Marie
+_Marie_
 
 Marie
 
 [Chorus]
-Marie
+_Marie_
 
 Marie
 
 [Chorus]
-Marie, Marie, ...
+_Marie, Marie, ..._
 
 Oooh, Marie
 Oooh, gone the week-end
 Oooh, Marie, so you will be away again
-I just to find that your heart is ...
+I just to find that your heart is [...]
 Until has gonna fall
 As you recall
 The moon and all
@@ -55,24 +55,24 @@ And the words, haven't you gone surrender
 To me, my sweet, my sweet, Marie
 
 Marie, Marie, Marie
-...
+[...]
 Ooh, Marie
 You soon gonna be a week end
-You gonna find ...
-...
+You gonna find [...]
+[...]
 
 [Chorus]
-Indeed
+_Indeed_
 
 Empty
 
 [Chorus]
-You fall
+_You fall_
 
 As gonna fall
 
 [Chorus]
-And you recall
+_And you recall_
 
 Ooh, the moon, the moon, the moon
 And all it's splender
@@ -83,7 +83,7 @@ To me
 my sweet Marie
 
 [Chorus]
-Marie, Marie, ...
+_Marie, Marie, ..._
 
 You know i'm talking about
 You know i'm talking about

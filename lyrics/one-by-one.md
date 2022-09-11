@@ -7,44 +7,44 @@ permalink: /one-by-one/
 # Lyrics - One By One
 
 [Chorus]
-One by one
-One by one
-One by one
+_One by one_
+_One by one_
+_One by one_
 
 Oooh, the wedding bell
 
 [Chorus]
-One by one
+_One by one_
 
 Took away all my payne
 
 [Chorus]
-One by one
+_One by one_
 
 Oooh, those wedding bells ring
 
 [Chorus]
-One by one
+_One by one_
 
 Breaking up all gang
 
-Every party, we were ...
+Every party, we were [...]
 And party on until saturday
 Saturday night the same thing
 Men we use to swing, woooo
 
 [Chorus]
-One by one
+_One by one_
 
 One by one, those wedding days
 Look at us
-...
-Snatching us
+[...]
+[Snatching?] us
 
 There is nobody left but me
 
 [Chorus]
-One by one
+_One by one_
 
 Ratchet, Harry and larry
 Until it was Joe and moe
@@ -60,20 +60,20 @@ Now, will comes my turn
 And oooh
 
 [Chorus]
-One by one
+_One by one_
 
 One by one, those wedding days
 
 [Chorus]
-One by one
+_One by one_
 
 Look at us
-...
-Snatching us
+[...]
+[Snatching?] us
 There is nobody left at all
 
 [Chorus]
-One by one
-One by one
-One by one
+_One by one_
+_One by one_
+_One by one_
 
