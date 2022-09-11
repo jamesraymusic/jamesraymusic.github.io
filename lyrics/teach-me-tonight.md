@@ -6,29 +6,28 @@ permalink: /teach-me-tonight/
 
 # Lyrics - Teach Me Tonight
 
-Did you say i have got a lot to learn
-Well don't think i'm trying not to learn
+Did you say I've got a lot to learn
+Well, don't think I'm trying not to learn
 Since this is the perfect spot to learn
 Teach me tonight
 
 Starting with the A, B, C of it
-Way down to the X, Y and Z of it
+Right down to the X, Y and Z of it
 Help me solve the mystery of it
 Teach me tonight
 
-Our skies are black, boy
-High above you
-If shooting star go bad
-[...], I love you
+The sky's a blackboard high above you
+If a shooting star goes by
+I'll use that star to write, I love you
+A thousand times across the sky
 
-A thousand time accross the sky
-One thing isn't there it's clear my love
-Sugar teacher [...], my love
-Glad you [...], my love
+One thing isn't very clear, my love
+Should the teachers stand so near, my love
+Graduation's almost here, my love
 Teach me tonight
 
 Starting with the A, B, C of it
-Way down to the X, Y and Z of it
+Right down to the X, Y and Z of it
 Help me solve the mystery of it
-Teach me tonight
+Come one and teach me tonight
 

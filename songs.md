@@ -23,8 +23,8 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | [Lazy Bones](https://www.youtube.com/watch?v=Apj1Cvkc55o)<br><sup>Written by - Hoagy Carmichael, Johnny Mercer</sup> | Caprice | July 1962 | None |
 | [St. James Infirmary](https://www.youtube.com/watch?v=lAP2bfSE_2s)<br><sup>Arranged by - Bob Davie</sup> | Caprice | July 1962 | [Lyrics](./lyrics/st-james-infirmary.md) |
 | [Come Rain Or Come Shine](https://www.youtube.com/watch?v=2uZ1bjzcJME)<br><sup>Written by - Johnny Mercer, Harold Arlen</sup> | Caprice | July 1962 | None |
-| [Without A Song](https://www.youtube.com/watch?v=vVQ447pzuzU)<br><sup>Written by - Vincent Youman</sup> | Caprice | July 1962 | None |
-| [Teach Me Tonight](https://www.youtube.com/watch?v=Z3g0ktzpZXs)<br><sup>Written by - Gene De Paul, Sammy Cahn</sup> | Caprice | July 1962 | None |
+| [Without A Song](https://www.youtube.com/watch?v=vVQ447pzuzU)<br><sup>Written by - Vincent Youman</sup> | Caprice | July 1962 | [Lyrics](./lyrics/without-a-song.md) |
+| [Teach Me Tonight](https://www.youtube.com/watch?v=Z3g0ktzpZXs)<br><sup>Written by - Gene De Paul, Sammy Cahn</sup> | Caprice | July 1962 | [Lyrics](./lyrics/teach-me-tonight.md) |
 | [Welcome To The Floor](https://www.youtube.com/watch?v=xDs6FBXgC60)<br><sup>Written by - Rudy Clark, Bob Davie</sup> | Caprice | July 1962 | [Lyrics](./lyrics/welcome-to-the-floor.md) |
 | [Always](https://www.youtube.com/watch?v=RwJwHDQvj_s)<br><sup>Written by - Irving Berlin</sup> | Dynamic Sound | December 1962 | [Lyrics](./lyrics/always.md) |
 | [Marie](https://www.youtube.com/watch?v=xVRQULoAq8U)<br><sup>Written by - Irving Berlin</sup> | Congress | February 1963 | [Lyrics](./lyrics/marie.md) |

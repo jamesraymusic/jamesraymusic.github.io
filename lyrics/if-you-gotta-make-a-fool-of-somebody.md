@@ -6,7 +6,7 @@ permalink: /if-you-gotta-make-a-fool-of-somebody/
 
 # Lyrics - If You Gotta Make A Fool Of Somebody
 
-If you gotta make a fool of somebody*
+If you gotta make a fool of somebody
 If you gotta make a fool of someone
 Do you really gotta hurt me
 I’m the one that’ll worry, about you

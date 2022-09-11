@@ -6,13 +6,9 @@ permalink: /without-a-song/
 
 # Lyrics - Without A Song
 
-Without a song
-The day will never end
-Without a song
-The road will never been
-When things go wrong
-And many got a friend
-
+Without a song, the day will never end
+Without a song, The road will never been
+When things go wrong, and many got a friend
 Without a song
 
 [Chorus]
@@ -23,13 +19,9 @@ Without a song
 [Chorus]
 _Without a song_
 
-That feel acorn
-Will never see a ...
-That feel acorn
-Will be deserted now
-A dark is gone
-But it [...]
-
+That field of corn, would never see a plow
+That field of corn, would be deserted now
+A dark is gone, but he's no good no how
 Without a song
 
 [Chorus]
@@ -40,17 +32,14 @@ Without a song
 [Chorus]
 _Without a song_
 
-I got my troubles in [...]
-But sure as you know
-That [...]
-I get a long that sure as song is in my soul
+I've got my trouble and woe, but sure as I know
+The Jordan will roll
+And I'll get along, as sure as a song
+Is in my soul
 
-I never know
-What makes [...]
-I never know
-What makes the rain [...]
-I only know
-That there is no love at all
+I'll never know, what makes the grass so tall
+I'll never know, what makes the rain to fall
+I only know, there ain't no love at all
 Without a song
 
 [Chorus]
@@ -61,17 +50,14 @@ Without a song
 [Chorus]
 _Without a song_
 
-I 've got my troubles in [...]
-But sure as you know
-That [...]
-I get a long that sure as song is in my soul
+I've got my trouble and woe, but sure as I know
+The Jordan will roll
+And I'll get along, as sure as a song
+Is in my soul
 
-I never know
-What makes [...]
-I never know
-What makes the rain [...]
-I only know
-There is no love at all
+I'll never know, what makes the grass so tall
+I'll never know, what makes the rain to fall
+I only know, there ain't no love at all
 Without a song
 
 [Chorus]
