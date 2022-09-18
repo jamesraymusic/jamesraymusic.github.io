@@ -23,5 +23,9 @@ footer: 'follow us on <a href="https://www.youtube.com/channel/UCf2aiQn8DLene52B
 style: light
 #listen_for_clients_preferred_style: true # true or false (default)
 
+# Comments
+disqus:
+  shortname: https-remidebord-github-io-whereisjamesray
+
 plugins:
   - jekyll-seo-tag
