@@ -8,7 +8,7 @@ permalink: /references/
 
 ## Books - Magazines
 - Whitburn, Joel (2004). Top R&B/Hip-Hop Singles: 1942–2004. Record Research. p. 365.
-- Mike Fenton, James Ray – the lost soul man, Blues & Rhythm, no.351, August 2020, pp.8–11
+- Mike Fenton, James Ray – the lost soul man, [Blues & Rhythm](http://www.bluesandrhythm.co.uk/), no.351, August 2020, pp.8–11
 - Mark Lewisohn (October 29, 2013). [Tune In: The Beatles: All These Years](https://www.google.fr/books/edition/Tune_In/bI11tpR-L_kC?hl=fr&gbpv=1&dq=james%20ray&pg=PA565&printsec=frontcover). p. 565. ISBN 9780804139342.
 
 ## Web
