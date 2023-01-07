@@ -16,7 +16,7 @@ By the deeds, by the deeds they have done
 And darling, I remember, you, you, you
 Oh, the sweets, sweets way you thrill me through and through
 
-Darling, I[^1] remember all of you
+Darling, I remember all of you
 And I remember everything i still do
 You remember the face of a girl
 If she changes, if she changes your world
@@ -28,4 +28,6 @@ Do, do, do, do, do, do, do, do, do
 
 Do, do, do, do, do, do, do, do, do
 
-[^1]: I could not believe that the second voice heard at mid song is expected (Hutch Davie?).
+```
+I could not believe that the second voice heard at mid song is expected (Hutch Davie?).
+```
