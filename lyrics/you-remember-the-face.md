@@ -28,6 +28,4 @@ Do, do, do, do, do, do, do, do, do
 
 Do, do, do, do, do, do, do, do, do
 
-```
-I could not believe that the second voice heard at mid song is expected (Hutch Davie?).
-```
+Note: I could not believe that the second voice heard at mid song is expected (Hutch Davie?).
