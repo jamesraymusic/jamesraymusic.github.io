@@ -9,17 +9,17 @@ permalink: /things-are-gonna-be-different/
 Things are gonna be different
 
 [Chorus]
-Oh Yeah
+_Oh Yeah_
 
 Come the break of day
 
 [Chorus]
-Oh Yeah
+_Oh Yeah_
 
 Gonna pick up a new style
 
 [Chorus]
-Gonna pick up a new style
+_Gonna pick up a new style_
 
 Gonna change it in every way
 
@@ -55,11 +55,11 @@ Things gonna be different
 Come the break of day
 
 [Chorus]
-Come the break of day
+_Come the break of day_
 
 Come the break of day
 
 [Chorus]
-Come the break of day
+_Come the break of day_
 
 Come the break of day

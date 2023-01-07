@@ -15,9 +15,9 @@ He works hard both night and day
 To keep his son in school so far away
 Every night the old man is on his knees to pray
 
-And he says: I want so bad
+And he says, I want so bad
 For my boy to have the chance I never had
-And he said: sweat lord, I want nothing else
+And he said, sweat lord, I want nothing else
 Bad for my boy to make something of himself
 
 Now way up north in the city, with eyes of flaming red
