@@ -12,26 +12,26 @@ The drinks were served as usual
 And a goodly crowd was there
 
 On my left stood John Henry
-His eyes were bloodshot out of red
-He gave at a proud a mountain
-And lays of a word he said
+His eyes blood shone out of red
+He gazed at the crowd around him
+And these are the words he said
 
-I went down to the St. James Infirmary
+I went down to St. James Infirmary
 Saw my baby there
-All streched out on a table
-So fail, so cold and so fair
+All stressed out on a table
+So pale, so cold, and so frail
 
 When up to see the doctor
 She's very low he said
-When back to see my baby
-Oh my, she's lay their day
+Went back to see my baby
+Oh my, she's lying their [...]
 
 Let her go, let her go and God bless her
 Wherever she may be
-There never be a lover like her
-There never be a lover for me
+There'll never be another like her
+There'll never be another for me
 
 And now you've heard my story
-I take another shot of booz
-And if everybody still askin'
-I've got Saint James Infirmery blues
+I'll take another shot of booze
+And if anybody happens to ask you
+I've got those St. James Infirmary blues

@@ -10,26 +10,26 @@ It's been a drag
 It's been a drag
 
 All of my life has been a drag
-Each day of my life has been filled with stress and [...]
+Each day of my life has been filled with stress and strife
 
 It's been a drag
-It's been a drag, and i hang a lot
+It's been a drag, and I ain't alive
 
-Heartaches worries have got me down
-I'm on the edge of nerves break down
+Heartaches worries have gotten me down
+I'm on the edge of nervous breakdown
 
 It's been a drag
-It's been a drag, and i hang a lot
+It's been a drag, and I ain't alive
 
 I meet the landlord knocking at my door
 And i have to tell him the same thing I told him before
-Take it in my pocket, i got a key
-Cause it's my lunch and [...] for the rest of the week
+The change in my pockets I gotta keep.
+Cause it's my lunch and coffee for the rest of the week
 
-Good lord, what is this, the [saint living], i can barely exist
-
-It's been a drag
-It's been a drag, and i hang a lot
+Good lord, what is this ? this ain't living, i can barely exist
 
 It's been a drag
-It's been a drag, and i hang a lot
+It's been a drag, and I ain't alive
+
+It's been a drag
+It's been a drag, and I ain't alive

@@ -6,49 +6,50 @@ permalink: /welcome-to-the-floor/
 
 # Lyrics - Welcome To The Floor
 
-No, you don't have to be an after [marry?]
-If you cant that at all, you just [unworried?]
-No, you don't have to be a Fred Astaire
-There will be no professionnal out there
+No, you don't have to be an [...]
+If you cant dance at all, you just don't worry
+No, you don't have to be afraid to stand
+There'll be no professionnals there
 
-Because, this is my party and my music
+Because it's my house, my party and my music
 And you are welcome to the floor
 
-And gave [out a spare warning?]
+I gave all the neighbors fair warning
 We will stop in early of the morning
-If you think you belong and bring a crown
-Don't you worry about [...]
+If you think you'll be lonely, bring your crowd
+Don't you worry about it being too loud
 
-Because, this is my party and my music
+Because it's my house, my party and my music
 And you are welcome to the floor
 
-There is twisting what a twist if you are a twister
-There be mess inside of melody of mess
-There is fly with a fly if you are a flyer
+They'll be twisting with a twist if you a twister
+They'll be mashing taters now if you a mash
+They'll be flying with a fly if you a flyer
 Or you can take it slow it doesn't matter Joe
 
-But, you don't have to be an after [marry?]
-If you cant that at all, you just [unworried?]
-No, you don't have to be a Fred Astaire
-There will be no professionnal out there
+But, you don't have to be an [...]
+If you cant dance at all, you just don't worry
+No, you don't have to be afraid to stand
+There'll' be no professionnals there
 
-Because, this is my party and my music
+Because it's my house, my party and my music
 And you are welcome to the floor, yeah
 
 There gonna be twisting now
-And [...] too
+And mashing taters too
 
 Oooh yeah, you can take it slow it doesn't matter Joe
 
-But, you don't have to be an after [marry?]
-If you cant that at all, you just [unworried?]
-No, you don't have to be a Fred Astaire
-There will be no professionnal out there
+But, you don't have to be an [...]
+If you cant dance at all, you just don't worry
+No, you don't have to be afraid to stand
+There'll be no professionnals there
 
-Because, this is my party and my music
+Because it's my house, my party and my music
 And you are welcome to the floor
 
 Yeah, you are welcome
 To the floor
 To the floor now
-[...]
+to the twist
+Mashing taters...

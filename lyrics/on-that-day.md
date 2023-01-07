@@ -27,13 +27,12 @@ She was looking very good
 _On that day_
 
 When she told me
-She have been love me
-And
+That she didn't love me anymore
 
 A black suit
 A white shirt
 A new tie
-I never wear before
+I never worn before
 
 That's the way
 That's the way, that i would get
@@ -49,12 +48,12 @@ I'm in love with my baby
 _On that day_
 
 When she told me
-She have been love me
+That she didn't love me anymore
 
 The sun was shining
 All so bright
 When my baby walked away from me
-And turned my day into shore and night
+It turned my day into sure night
 You know the red bird stop singing
 [...]
 Yeah
@@ -83,7 +82,7 @@ Oooh, my baby left me
 [Chorus]
 _On that day_
 
-Feeling seul and blue
+Feeling sad and blue
 
 [Chorus]
 _On that day_

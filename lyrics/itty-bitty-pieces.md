@@ -51,3 +51,9 @@ It's been a long, long time
 Since I waited on it
 Don't you know how much I need you
 Dog gone it
+
+I'm about to go to pieces,
+Go to pieces, go to pieces
+Oh, you're breaking me up 
+And I don't mean maybe 
+Into little itty bitty pieces, baby

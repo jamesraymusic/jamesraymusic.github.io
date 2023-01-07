@@ -11,69 +11,70 @@ _One by one_
 _One by one_
 _One by one_
 
-Oooh, the wedding bell
+Oh, the wedding bell
 
 [Chorus]
 _One by one_
 
-Took away all my payne
+Took away all my pals
 
 [Chorus]
 _One by one_
 
-Oooh, those wedding bells ring
+Oh, those wedding bells ringing
 
 [Chorus]
 _One by one_
 
-Breaking up all gang
+Breaking up the whole gang
 
-Every party, we were [...]
+Every Friday we bail by [...]
 And party on until saturday
 Saturday night the same thing
-Men we use to swing, woooo
+Man we use to swing, oh
 
 [Chorus]
 _One by one_
 
-One by one, those wedding days
-Look at us
-[...]
-[Snatching?] us
+One by one, those wedding bells
+Hooking us
+Grabbing us
+Snatching us
 
-There is nobody left but me
+There was nobody left but me
 
 [Chorus]
 _One by one_
 
-Ratchet, Harry and larry
-Until it was Joe and moe
+First it was Harry and Larry
+Until it was Joe and Moe
 Until the whole gang was gone
-And i was left all alone
+And I was left all alone
 
 Then you came, on the scene
-The prettious thing, i have ever seen
+The prettiest thing, I'd ever seen
 You gave me fever
 You made me yearn
 
-Now, will comes my turn
-And oooh
+Now, here comes my turn
+And oh
 
 [Chorus]
 _One by one_
 
-One by one, those wedding days
+One by one, those wedding bells
 
 [Chorus]
 _One by one_
 
-Look at us
-[...]
-[Snatching?] us
+Hooking us
+Grabbing us
+Snatching us
+
 There is nobody left at all
 
 [Chorus]
 _One by one_
 _One by one_
 _One by one_
-
+_One by one_

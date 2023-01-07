@@ -16,7 +16,7 @@ I've got a girl and her name is sweet Marie
 [Chorus]
 _Ahah_
 
-We have been [all night and ...], anyone can see
+We've been out all night as anyone can see
 
 [Chorus]
 _Ahah_
@@ -24,50 +24,50 @@ _Ahah_
 I'm talking about Marie
 
 [Chorus]
-Marie
+_Marie?_
 
 Marie
 
 [Chorus]
-_Marie_
+_Marie?_
 
 Marie
 
 [Chorus]
-_Marie_
+_Marie?_
 
 Marie
 
 [Chorus]
 _Marie, Marie, ..._
 
-Oooh, Marie
-Oooh, gone the week-end
-Oooh, Marie, so you will be away again
-I just to find that your heart is [...]
-Until has gonna fall
+Oh, Marie
+Oh, you've been [...]
+Oh, Marie, so you'll be waking
+I just to find that your heart is aching
+And tears are gonna fall
 As you recall
 The moon and all
 It's splender
-All that kiss
-So whole and tender
-And the words, haven't you gone surrender
+Oh, and that kiss
+So warm and tender
+And the words, that you're gonna surrender
 To me, my sweet, my sweet, Marie
 
 Marie, Marie, Marie
-[...]
+The dawn is breaking
 Ooh, Marie
-You soon gonna be a week end
-You gonna find [...]
-[...]
+You'll soon be waking
+You're gonna find
+That your heart is aching
 
 [Chorus]
-_Indeed_
+_And tears_
 
-Empty
+And tears
 
 [Chorus]
-_You fall_
+_will fall_
 
 As gonna fall
 
@@ -78,9 +78,9 @@ Ooh, the moon, the moon, the moon
 And all it's splender
 And your kiss, your kiss
 So sweet and tender
-And the word, that you gonna surrender
+And the words, that you're gonna surrender
 To me
-my sweet Marie
+My sweet Marie
 
 [Chorus]
 _Marie, Marie, ..._

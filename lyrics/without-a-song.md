@@ -6,9 +6,9 @@ permalink: /without-a-song/
 
 # Lyrics - Without A Song
 
-Without a song, the day will never end
-Without a song, The road will never been
-When things go wrong, and many got a friend
+Without a song, the day would never end
+Without a song, The road would never been
+When things go wrong, a man ain't got no friend
 Without a song
 
 [Chorus]
@@ -21,7 +21,7 @@ _Without a song_
 
 That field of corn, would never see a plow
 That field of corn, would be deserted now
-A dark is gone, but he's no good no how
+A dark is gone, but he's no good now
 Without a song
 
 [Chorus]
@@ -32,13 +32,13 @@ Without a song
 [Chorus]
 _Without a song_
 
-I've got my trouble and woe, but sure as I know
+I've got my troubles and woe, but sure as I know
 The Jordan will roll
 And I'll get along, as sure as a song
 Is in my soul
 
-I'll never know, what makes the grass so tall
-I'll never know, what makes the rain to fall
+I'll never know, what makes the trees go tall
+I'll never know, what makes the raindrops fall
 I only know, there ain't no love at all
 Without a song
 
@@ -55,8 +55,8 @@ The Jordan will roll
 And I'll get along, as sure as a song
 Is in my soul
 
-I'll never know, what makes the grass so tall
-I'll never know, what makes the rain to fall
+I'll never know, what makes the trees go tall
+I'll never know, what makes the raindrops fall
 I only know, there ain't no love at all
 Without a song
 

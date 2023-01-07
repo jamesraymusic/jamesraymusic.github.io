@@ -12,8 +12,8 @@ They have told you that i'm running around
 
 She has told you
 She has told you
-They have told you that i'm pulling you down
-Stop treating me like [...]
+They have told you that i'm putting you down
+Stop treating me like I'm all drowned
 
 [Chorus]
 _How do you feel?_
@@ -28,17 +28,14 @@ Wooo, i'm not guilty
 [Chorus]
 _How do you feel?_
 
-Girl, i'm not guilty
+Girl, i'm not guilty of what they say about me
+No, what they say about me
 
-What they say about me, nooo
-What they say about me
-
-What they tell you
-Got forgot some
+What they tell you ain't just a gossip
 They are just trying to tear us appart
 And my darling, if you believe them
 Don't you known it's gonna breaking my heart
-Stop treating me, girl like a [...]
+Stop treating me, girl like I'm all drowned
 
 [Chorus]
 _How do you feel?_
@@ -53,9 +50,8 @@ Girl, i'm not guilty
 [Chorus]
 _How do you feel?_
 
-Can't you see i'm not guilty
-What they say about me, nooo
-What they say about me
+Can't you see i'm not guilty of what they say about me?
+No, what they say about me
 
 [Saxophone solo]
 
@@ -72,14 +68,13 @@ No, no, no, i'm not guilty
 [Chorus]
 _How do you feel?_
 
-Cant you see i'm not guilty
-What they say about me, nooo
-What they say about me
+Cant you see i'm not guilty of what they say about me?
+No, What they say about me
 
 [Chorus]
 _How do you feel?_
 
-Wooo, i'm not guilty
+Wo, i'm not guilty
 
 [Chorus]
 _How do you feel?_

@@ -8,7 +8,7 @@ permalink: /a-miracle/
 
 All my life I've prayed for
 Someone to love
-Wondering if my prayers were heard up above
+Wondered if my prayers were heard up above
 
 It was a miracle
 A miracle
@@ -39,4 +39,4 @@ And sent you down for me to love
 It was a miracle
 A miracle
 Heaven created a miracle
-And sent you down [...]
+And sent you down for me to love
