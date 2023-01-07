@@ -14,26 +14,27 @@ If I could make her mine
 I will be so happy
 Cause, I've never know, I never know, I never been in love before
 
-But the girl wont know this thing
-No, no, no, no, no, no the girl wont know this thing
+But the girl won't notice me
+No, no, no, no, no, no the girl won't notice me
 
 If I could walk with her
-Even I just talk with her
+Even just to talk with her
 
-I know, I could make her, I make her, I make her, [...] make her mine
+I know, I could make her, I make her, I make her
+I could up make her mine
 
 If i could hold her hand
 Just hold her hand
 
 I know, I would make her, I make her, I make her, I make her mine
 
-But the girl wont know this thing
-No, no, no, no, no, no the girl wont know this thing
+But the girl won't notice me
+No, no, no, no, no, no the girl won't notice me
 
 They say this game of love is a foolish game
 Only played by a fool
 But if she wants me to play this game of fool
-Tell me in, tell me in, and [my heart] will be a fool
+Count me in, count me in, and I will be her fool
 
 If I could make her mine
 I will be so happy
@@ -44,11 +45,11 @@ Just hold her hand
 
 I know, I can make her, I make her, I make her, I make her mine
 
-But the girl wont know this thing
-No, no, no, no, no, no the girl wont know this thing
+But the girl won't notice me
+No, no, no, no, no, no the girl won't notice me
 
-No that girl wont know this thing
+No that girl won't notice me
 
-No the girl wont know this thing
+No the girl won't notice me
 
-No that girl wont know this thing
+No that girl won't notice me

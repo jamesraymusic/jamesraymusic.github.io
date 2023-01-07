@@ -10,17 +10,17 @@ permalink: /we-got-a-thing-going-on/
 _We got a thing going on_
 _We got a thing going on_
 
-I thought i was only one lonely
-But i found somebody alone alike unique
-We were met for each other
-We have [...] as can be
+I thought I was only one lonely
+But i found somebody lonely like me
+We were meant for each other
+And we are happy as can be
 
 We got a thing going on
 Yes, we got a thing going on
 Let me tell you
 Glorious, oooh
 Marvelous
-Such a wonderful feel
+Such a wonderful thing
 
 Its called love
 
@@ -33,8 +33,8 @@ yes, it's called love
 _We got a thing going on_
 
 And when my baby smiles at me
-I know i'm a lucky guy
-And i just smiles back at my baby
+I know I'm a lucky guy
+And I just smiles back at my baby
 I'm gonna wink my eye
 We got a thing going on
 
@@ -49,7 +49,7 @@ _Got a thing going on_
 Let me tell you
 Glorious, oooh
 Marvelous
-Such a wonderful feel
+Such a wonderful thing
 
 Its called love
 
@@ -62,13 +62,13 @@ Yes, it's called love
 _We got a thing going on_
 
 When people see us together
-They are anvious
-And we have a kind of love that is so strong
+They are envious
+So we have the kind of love that is oh so strong
 
-When i wink my baby
+When I'm with my baby
 I feel so great
 Just like a king
-All is the [...]
+Oh, it's glorious
 Yes
 
 We got a thing going on
@@ -84,7 +84,7 @@ _We got a thing going on_
 Let me tell you
 Glorious, sooo
 Marvelous
-Such a wonderful feel
+Such a wonderful thing
 
 It's called love
 
