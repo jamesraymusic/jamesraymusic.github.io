@@ -4,7 +4,7 @@ title: Mirror Biography Dave Stephens
 permalink: /biography-dave-stephens/
 ---
 
-# [Mirror] James Ray: Anatomy of a one hit wonder #2
+# James Ray - Anatomy of a one hit wonder #2
 
 Contributor: Dave Stephens
 

@@ -4,7 +4,7 @@ title: Mirror Biography Dik de Heer
 permalink: /biography-dik-de-heer/
 ---
 
-# [Mirror] James Ray biography by Dik de Heer
+# James Ray - by Dik de Heer 
 Born James Ray Raymond, 1941, Washington, D.C.
 Died circa 1963
 

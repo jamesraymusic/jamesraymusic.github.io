@@ -4,7 +4,7 @@ title: Mirror Biography Mike Fenton
 permalink: /biography-mike-fenton/
 ---
 
-# [Mirror] James Ray - "THE LOST SOUL MAN"
+# James Ray - "THE LOST SOUL MAN"
 
 Mike Fenton recalls the short career of James Ray, with the help of the artist's mentor Gerry Granahan
 
