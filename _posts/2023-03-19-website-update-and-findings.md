@@ -24,11 +24,11 @@ Next, i purchased several vinyls as i was hoping to find some clues on it, and o
 <table>
   <tbody>
     <tr>
-      <td><a href="../uploads/photos/IMG_1456.JPG"><img src="../uploads/photos/IMG_1456.JPG"/></a></td>
-      <td><a href="../uploads/photos/IMG_1457.JPG"><img src="../uploads/photos/IMG_1457.JPG"/></a></td>
-      <td><a href="../uploads/photos/IMG_1458.JPG"><img src="../uploads/photos/IMG_1458.JPG"/></a></td>
-      <td><a href="../uploads/photos/IMG_1460.JPG"><img src="../uploads/photos/IMG_1460.JPG"/></a></td>
-      <td><a href="../uploads/photos/IMG_1459.JPG"><img src="../uploads/photos/IMG_1459.JPG"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1456.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1457.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1458.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1459.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1460.JPG" | relative_url }}"/></a></td>
     </tr>
   </tbody>
 </table>
