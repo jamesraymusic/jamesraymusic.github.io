@@ -22,7 +22,7 @@ Here is a list of websites used for the research:
 Next, i purchased several vinyls as i was hoping to find some clues on it, and one of them (James Ray - Itty Bitty, [Charly Records](https://www.charly.co.uk/)) is interesting as it includes a James Ray musical biography. For example, we can learn that a song called "It'll Never Be Over For Me" was released on August 21st 1970, nearly seven years after James Ray death, but remains lost.
 
 <style>
-    .image-gallery { column-count: 5; }
+    .image-gallery { column-count: 3; }
     img { width: 100%; height: auto; padding: 10px; }
 </style>
 
