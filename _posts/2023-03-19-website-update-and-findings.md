@@ -6,7 +6,7 @@ comments: true
 
 It's been a while since the previous post (~6 months), but i did and found few things that i can share.
 
-First, i worked several times on the lyrics transcription, thanks to [Whisper AI](https://openai.com/research/whisper) for the most complicated songs, and it's almost done (see [songs]({{ "/songs.md" | relative_url }}) page).
+First, i worked several times on the lyrics transcription, thanks to [Whisper AI](https://openai.com/research/whisper) for the most complicated songs, and it's almost done (see [songs]({{ "/songs/" | relative_url }}) page).
 
 In the same time i was seeking for some informations in availables databases (Ancestry, records of NYC, death indexes, obituaries, ...), and i can tell that it's really complicated to obtain informations about people who leaved in the pre-computer/web era. I didn't found anything valuable, even with Ancestry... . 
 
@@ -27,21 +27,21 @@ Next, i purchased several vinyls as i was hoping to find some clues on it, and o
 </style>
 
 <div class="image-gallery">
-    <a href="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/IMG_1456.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1456.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/IMG_1457.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1457.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/IMG_1458.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1458.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/IMG_1459.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1459.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/IMG_1460.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1460.JPG" | relative_url }}"/></a>
 </div>
 
-A reference on the Wikipedia page lead me to obtain a copy of the magazine [Blues and Rythm](http://www.bluesandrhythm.co.uk/) No 351, and __i finally found the most interesting and complete article about James Ray life__ by Mike Fenton, with an interview of [Gerry Granahan](https://en.wikipedia.org/wiki/Gerry_Granahan) (Caprice Records - producer). I will continue my research based on the inputs from this article. This one is available here: [James Ray - "THE LOST SOUL MAN"](./mirrors/biography-mike-fenton.md).
+A reference on the Wikipedia page lead me to obtain a copy of the magazine [Blues and Rythm](http://www.bluesandrhythm.co.uk/) No 351, and __i finally found the most interesting and complete article about James Ray life__ by Mike Fenton, with an interview of [Gerry Granahan](https://en.wikipedia.org/wiki/Gerry_Granahan) (Caprice Records - producer). I will continue my research based on the inputs from this article. This one is available here: [James Ray - "THE LOST SOUL MAN"]({{ "/mirrors/biography-mike-fenton/" | relative_url }}).
 
 <div class="image-gallery">
-    <a href="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"/></a>
 </div>
 
 I will conclude with last things done on the website:
