@@ -21,31 +21,28 @@ Here is a list of websites used for the research:
 
 Next, i purchased several vinyls as i was hoping to find some clues on it, and one of them (James Ray - Itty Bitty, [Charly Records](https://www.charly.co.uk/)) is interesting as it includes a James Ray musical biography. For example, we can learn that a song called "It'll Never Be Over For Me" was released on August 21st 1970, nearly seven years after James Ray death, but remains lost.
 
-<table>
-  <tbody>
-    <tr>
-      <td><a href="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"/></a></td>
-    </tr>
-  </tbody>
-</table>
+<style>
+    .image-gallery { column-count: 5; }
+    img { width: 100%; height: auto; padding: 10px; }
+</style>
+
+<div class="image-gallery">
+    <a href="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"/></a>
+</div>
 
 A reference on the Wikipedia page lead me to obtain a copy of the magazine [Blues and Rythm](http://www.bluesandrhythm.co.uk/) No 351, and __i finally found the most interesting and complete article about James Ray life__ by Mike Fenton, with an interview of [Gerry Granahan](https://en.wikipedia.org/wiki/Gerry_Granahan) (Caprice Records - producer). I will continue my research based on the inputs from this article. This one is available here: [James Ray - "THE LOST SOUL MAN"](./mirrors/biography-mike-fenton.md).
 
-<table>
-  <tbody>
-    <tr>
-      <td><a href="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"/></a></td>
-    </tr>
-  </tbody>
-</table>
+<div class="image-gallery">
+    <a href="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"/></a>
+</div>
 
 I will conclude with last things done on the website:
 - Biography page now includes all James Ray biographies found over the web and from Blues and Rythm.
