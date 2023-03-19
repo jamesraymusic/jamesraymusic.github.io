@@ -6,7 +6,7 @@ permalink: /biography-mike-fenton/
 
 # James Ray - "THE LOST SOUL MAN"
 
-## Mike Fenton recalls the short career of James Ray, with the help of the artist's mentor Gerry Granahan.
+Mike Fenton recalls the short career of James Ray, with the help of the artist's mentor Gerry Granahan.
 
 __It's one of the most tragic and frustrating tales of the 1960s music industry, the classic example of a wasted talent, a young life thrown away in the lonely trajectory of a mysterious death. James Ray's star bumed brightly but brieﬂy - he was indeed, not just the _lost soul man_ in terms of his music, but also the proverbial _lost soul_ whose life could have contributed so much more given the right environment and sympathetic guidance. Virtually all I know of James Ray and his music comes from a fairly full collection of his recordings and the time spent with his mentor and label boss, my friend Gerry Granahan.__
 

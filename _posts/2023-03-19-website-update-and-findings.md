@@ -27,26 +27,26 @@ Next, i purchased several vinyls as i was hoping to find some clues on it, and o
 </style>
 
 <div class="image-gallery">
-    <a href="{{ "/uploads/misc/IMG_1456.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1456.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/IMG_1457.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1457.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/IMG_1458.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1458.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/IMG_1459.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1459.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/IMG_1460.JPG" | relative_url }}"><img src="{{ "/uploads/misc/IMG_1460.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/vinyls/full/IMG_1456.JPG" | relative_url }}"><img src="{{ "/uploads/misc/vinyls/mini/IMG_1456.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/vinyls/full/IMG_1457.JPG" | relative_url }}"><img src="{{ "/uploads/misc/vinyls/mini/IMG_1457.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/vinyls/full/IMG_1458.JPG" | relative_url }}"><img src="{{ "/uploads/misc/vinyls/mini/IMG_1458.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/vinyls/full/IMG_1459.JPG" | relative_url }}"><img src="{{ "/uploads/misc/vinyls/mini/IMG_1459.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/vinyls/full/IMG_1460.JPG" | relative_url }}"><img src="{{ "/uploads/misc/vinyls/mini/IMG_1460.JPG" | relative_url }}"/></a>
 </div>
 
-A reference on the Wikipedia page lead me to obtain a copy of the magazine [Blues and Rythm](http://www.bluesandrhythm.co.uk/) No 351, and __i finally found the most interesting and complete article about James Ray life__ by Mike Fenton, with an interview of [Gerry Granahan](https://en.wikipedia.org/wiki/Gerry_Granahan) (Caprice Records - producer). I will continue my research based on the inputs from this article. This one is available here: [James Ray - "THE LOST SOUL MAN"]({{ "/mirrors/biography-mike-fenton/" | relative_url }}).
+A reference on the Wikipedia page lead me to obtain a copy of the magazine [Blues and Rythm](http://www.bluesandrhythm.co.uk/) No 351, and __i finally found the most interesting and complete article about James Ray life__ by Mike Fenton, with an interview of [Gerry Granahan](https://en.wikipedia.org/wiki/Gerry_Granahan) (Caprice Records - producer). I will continue my research based on the inputs from this article. This one is available here: [James Ray - "THE LOST SOUL MAN"]({{ "/biography-mike-fenton/" | relative_url }}).
 
 <div class="image-gallery">
-    <a href="{{ "/uploads/misc/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/misc/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/full/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/mini/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/full/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/mini/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/mini/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/full/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/mini/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/misc/blues_and_rythm/full/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"><img src="{{ "/uploads/misc/blues_and_rythm/mini/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"/></a>
 </div>
 
 I will conclude with last things done on the website:
 - Biography page now includes all James Ray biographies found over the web and from Blues and Rythm.
-- whereisjamesray repo was forked on jamesraymusic.github.io (for domain name purpose).
-- The domain name whereisjamesray.net can be used (instead of remidebord.github.io/whereisjamesray or jamesraymusic.github.io).
+- whereisjamesray repo was forked on [jamesraymusic.github.io](jamesraymusic.github.io) (for domain name purpose).
+- The domain name [whereisjamesray.net](whereisjamesray.net) can be used (instead of [remidebord.github.io/whereisjamesray](remidebord.github.io/whereisjamesray) or [jamesraymusic.github.io](jamesraymusic.github.io)).
 
 Rémi.
