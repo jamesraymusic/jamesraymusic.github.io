@@ -24,11 +24,11 @@ Next, i purchased several vinyls as i was hoping to find some clues on it, and o
 <table>
   <tbody>
     <tr>
-      <td><a href="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1456.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1457.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1458.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1459.JPG" | relative_url }}"/></a></td>
-      <td><a href="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"><img src="{{ "../uploads/photos/IMG_1460.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1456.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1457.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1458.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1459.JPG" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"><img src="{{ "/uploads/photos/IMG_1460.JPG" | relative_url }}"/></a></td>
     </tr>
   </tbody>
 </table>
@@ -38,11 +38,11 @@ A reference on the Wikipedia page lead me to obtain a copy of the magazine [Blue
 <table>
   <tbody>
     <tr>
-      <td><a href="../uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg"><img src="../uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg"/></a></td>
-      <td><a href="../uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg"><img src="../uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg"/></a></td>
-      <td><a href="../uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg"><img src="../uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg"/></a></td>
-      <td><a href="../uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg"><img src="../uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg"/></a></td>
-      <td><a href="../uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg"><img src="../uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg"/></a></td>
+      <td><a href="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/01_blues_and_rythm_351_august_2020_cover.jpg" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/02_blues_and_rythm_351_august_2020_p8.jpg" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/03_blues_and_rythm_351_august_2020_p9.jpg" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/04_blues_and_rythm_351_august_2020_p10.jpg" | relative_url }}"/></a></td>
+      <td><a href="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"><img src="{{ "/uploads/photos/blues_and_rythm/05_blues_and_rythm_351_august_2020_p11.jpg" | relative_url }}"/></a></td>
     </tr>
   </tbody>
 </table>
