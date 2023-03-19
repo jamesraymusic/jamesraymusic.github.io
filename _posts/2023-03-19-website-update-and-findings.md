@@ -6,7 +6,7 @@ comments: true
 
 It's been a while since the previous post (~6 months), but i did and found few things that i can share.
 
-First, i worked several times on the lyrics transcription, thanks to [Whisper AI](https://openai.com/research/whisper) for the most complicated songs, and it's almost done (see [songs](./songs.md) page).
+First, i worked several times on the lyrics transcription, thanks to [Whisper AI](https://openai.com/research/whisper) for the most complicated songs, and it's almost done (see [songs]({{ "/songs.md" | relative_url }}) page).
 
 In the same time i was seeking for some informations in availables databases (Ancestry, records of NYC, death indexes, obituaries, ...), and i can tell that it's really complicated to obtain informations about people who leaved in the pre-computer/web era. I didn't found anything valuable, even with Ancestry... . 
 
