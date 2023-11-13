@@ -4,9 +4,11 @@ title: Biography
 permalink: /biography/
 ---
 
-# Biography
+{%- include_relative mirrors/biography-mike-fenton-content.md -%}
 
-- [James Ray - "THE LOST SOUL MAN"](./mirrors/biography-mike-fenton.md)
+Credits to Mike Fenton.
+
+# Other biographies
 - [James Ray - Anatomy of a one hit wonder #2](./mirrors/biography-dave-stephens.md)
 - [James Ray - If You Gotta Make a Fool of Somebody](./mirrors/biography-michael-jack-kirby.md)
 - [James Ray - by Jason Ankeny](./mirrors/biography-jason-ankeny.md)
