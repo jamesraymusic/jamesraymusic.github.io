@@ -4,7 +4,9 @@ title: Biography
 permalink: /biography/
 ---
 
-{%- include_relative mirrors/biography-mike-fenton.md -%}
+{%- include_relative mirrors/biography-mike-fenton-content.md -%}
+
+Credits to Mike Fenton.
 
 # Other biographies
 - [James Ray - Anatomy of a one hit wonder #2](./mirrors/biography-dave-stephens.md)
