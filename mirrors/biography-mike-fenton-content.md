@@ -5,7 +5,7 @@ Mike Fenton recalls the short career of James Ray, with the help of the artist's
 
 __It's one of the most tragic and frustrating tales of the 1960s music industry, the classic example of a wasted talent, a young life thrown away in the lonely trajectory of a mysterious death. James Ray's star bumed brightly but brieﬂy - he was indeed, not just the _lost soul man_ in terms of his music, but also the proverbial _lost soul_ whose life could have contributed so much more given the right environment and sympathetic guidance. Virtually all I know of James Ray and his music comes from a fairly full collection of his recordings and the time spent with his mentor and label boss, my friend Gerry Granahan.__
 
-<a href="./uploads/photos/full/cover-of-sheet-music.jpg"><img src="./uploads/photos/full/cover-of-sheet-music.jpg"/></a>
+<a href="../uploads/photos/full/cover-of-sheet-music.jpg"><img src="../uploads/photos/full/cover-of-sheet-music.jpg"/></a>
 
 There are two well-known starkly contrasted images of James Ray. On the UK sheet music edition for his best known hit song (B. Feldman & Co., London, 2/6d) James poses urbanely in bow-tie and tuxedo with meticulously-processed hair; on the front liner of his one album he sits shyly on a stool in a suit borrowed from his Caprice Records boss Granahan, nervously holding a cigarette. James Ray's recording of [If You Gotta Make A Fool Of Somebody](https://www.youtube.com/watch?v=sperNZW6A8k) was one of the quirkiest rhythm and blues records of its era, unique in the genre with its three-four time, the absence of a bass, with its arrangement dominated by a tuba and waiting harmonica.
 
@@ -19,7 +19,7 @@ Galliant was the authentic correct name, I believe, with a label address shown a
 
 Or were those discs on Gallant bootlegged copies? You see copies of the disc on-line with no composing credits listed on the label, and you wonder about the provenance of these. The plug side, [Make Her Mine](https://www.youtube.com/watch?v=r0ptmu3QHI8) was penned by Richard Barrett, he of Chantels mentorship, whereas [You Need To Fall In Love](https://www.youtube.com/watch?v=a21ujJ22t3s), the flip, was composed by Ray (_Raymond Ray_), ironically, in view of their vocal similarities, with a minor key styling lifted from Little Willie Johns _Fever_. The disc is impossibly rare and likely to be expensive if you ﬁnd a copy - a recent US dealer’s price on Discogs ran close to £200. As a debut disc, it was an impressive start, the voice unmistakeable with its tortured and groaning delivery.
 
-<a href="./uploads/photos/full/garry-granahan-2.jpg"><img src="./uploads/photos/full/garry-granahan-2.jpg"/></a>
+<a href="../uploads/photos/full/garry-granahan-2.jpg"><img src="../uploads/photos/full/garry-granahan-2.jpg"/></a>
 
 In 1961, music business chameleon [Gerry Granahan](https://en.wikipedia.org/wiki/Gerry_Granahan) was exploring pastures new. He had scored a Top 30 US hit in 1958 with the oddly-titled session throwaway, _No Chemise Please_, a record he still regards as _a freaky mistake_. He had also achieved chart success as a member of The Fireﬂies (_You Were Mine_) and Dicky Doc & The Don'ts (_Click Clack_), and it's a little-known fact that his producers hat was behind the original of _Wild Thing_ by The Wild Ones for United Artists, a disc more commonly associated with The Troggs, an English group from Andover. Now in the process of forming his own record label, [Caprice Records](https://www.discogs.com/label/138140-Caprice-3) [[2](https://www.bsnpubs.com/nyc/canam/caprice.html)], he visited New York looking for talent. After some initial success with The Angels and Janie Grant, at this point Granahan and a gifted New York songwriter were to become the two major catalysts in the James Ray story. [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) was a Manhattan mailman who delivered the post to the Caprice office. He was also a budding songsmith who began pitching his songs to the label.
 
@@ -34,11 +34,11 @@ We have no details of his precise appearances, but the normal form of that perio
 
 Apollo owner [Frank Schiffman](https://sova.si.edu/record/NMAH.AC.0540) kept an index card on every perfonner who appeared there, and his surviving card on Ray records that he was paid $500 (probably the weekly rate), and that the MC was Jocko (_The Ace From Outer Space_) Henderson, probably with one of his _Jocko’s Rocketship Revues_.
 
-<a href="./uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"><img src="./uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"/></a>
+<a href="../uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"><img src="../uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"/></a>
 
 The card, dated 25th December, concisely tells us _Had hit record — very well received_. if the Schiffman assessment appears somewhat scant, it is worth remembering that the owner could often be quite scathing and unsparing in such comments, so clearly Ray was a success there, but he never appeared again. I suspect that by the time [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y) appeared on the Hot Hundred on 7th April, 1962, the diversions of his existence in New York may well have made the likelihood of a further Apollo invitation unlikely, although we do know from a New York Amsterdam News clipping of Saturday 14th July, 1962 that he appeared that weekend at the __Baby Grand club at 319, West 125th Street__, in company with the Soul Sisters, a duo who had a US Top Fifty hit two years later with _I Can’t Stand It_.
 
-<a href="./uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg"><img src="./uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg"/></a>
+<a href="../uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg"><img src="../uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg"/></a>
 
 __Caprice__ released three singles by Ray. The follow-up to the debut hit, [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y), followed _Fool_ onto the US charts and peaked at number 41 on Billboard in a ten-week run (number 55 Cashbox), both sides penned by Rudy Clark, but the third [A Miracle](https://www.youtube.com/watch?v=s9y2VSHu2I8), non-Clark, failed to chart.
 
@@ -55,7 +55,7 @@ probably stymied by Granahan closing the label down early in 1963.
 
 The Dynamic Sound 45 with just the sub-two minutes of [I've Got My Mind Set On You](https://www.youtube.com/watch?v=dSNbpBOf80A) remains a total mystery. It was nothing to do with Gerry Granahan, although the label looked similar to Caprice, black with arranger [Hutch Davies](https://en.wikipedia.org/wiki/Hutch_Davie) name in a little diamond. Granahan still has custody and ownership of all the Caprice masters, which begs the question, what was the source of the track used for the single?
 
-<a href="./uploads/photos/full/hutch-davie-on-left-and-papa-don-schroeder.jpg"><img src="./uploads/photos/full/hutch-davie-on-left-and-papa-don-schroeder.jpg"/></a>
+<a href="../uploads/photos/full/hutch-davie-on-left-and-papa-don-schroeder.jpg"><img src="../uploads/photos/full/hutch-davie-on-left-and-papa-don-schroeder.jpg"/></a>
 
 I think Davie is the likely answer, with his label credit on a disc that was issued in December 1962, and his liaison with Caprice about to be terminated by closure of the label. Did Davie own a separate master?
 
