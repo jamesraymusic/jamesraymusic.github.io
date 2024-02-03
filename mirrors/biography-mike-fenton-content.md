@@ -32,7 +32,7 @@ Only two days later (22th December 1961) he began a two week run at [Harlem's Ap
 
 We have no details of his precise appearances, but the normal form of that period for a new artist was a short set comprising both sides of the hit single plus possibly one other song, presented in six shows a day, accompanied by the house band. One wonders if the accompaniment included the tuba and harmonica as on the record? At the end of his fourteen day run there, his hit had risen to number 29 on Billboard.
 
-Apollo owner [Frank Schiffman](https://sova.si.edu/record/NMAH.AC.0540) kept an index card on every perfonner who appeared there, and his surviving card on Ray records that he was paid $500 (probably the weekly rate), and that the MC was Jocko (_The Ace From Outer Space_) Henderson, probably with one of his _Jocko’s Rocketship Revues_.
+Apollo owner [Frank Schiffman](https://sova.si.edu/record/NMAH.AC.0540) kept an index card on every performer who appeared there, and his surviving card on Ray records that he was paid $500 (probably the weekly rate), and that the MC was Jocko (_The Ace From Outer Space_) Henderson, probably with one of his _Jocko’s Rocketship Revues_.
 
 <a href="../uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"><img src="../uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"/></a>
 
