@@ -28,5 +28,6 @@ permalink: /references/
 - [George Harrison holidays with his sister Louise in Benton, IL, USA](https://www.beatlesbible.com/1963/09/16/george-harrison-holiday-america/). The Beatles Bible, beatlesbible.com.
 - [James Ray Memorial](https://fr.findagrave.com/memorial/65833741/james-ray). Find a Grave, findagrave.com.
 - [The complete James Ray: 27 Tracks](http://musenick.blogspot.com/2013/12/the-allegedly-complete-james-ray-if-you.html). blogspot.com.
+- Todd Baptista. ["How Did I Get Here?" A Quiet Legend Revealed](https://web.archive.org/web/20160109103730/https://toddbaptista.com/gerry%20granahan.html). [[Mirror]](./mirrors/gerry-granahan-by-todd-baptista.md)
 
 Note: If one of those webpages is no more reachable, please use the [Wayback machine](https://archive.org/web).
