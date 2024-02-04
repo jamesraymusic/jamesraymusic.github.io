@@ -29,5 +29,6 @@ permalink: /references/
 - [James Ray Memorial](https://fr.findagrave.com/memorial/65833741/james-ray). Find a Grave, findagrave.com.
 - [The complete James Ray: 27 Tracks](http://musenick.blogspot.com/2013/12/the-allegedly-complete-james-ray-if-you.html). blogspot.com.
 - Todd Baptista. ["How Did I Get Here?" A Quiet Legend Revealed](https://toddbaptista.com/gerry%20granahan.html). [[Mirror]](./mirrors/gerry-granahan-by-todd-baptista.md)
+- Mick Patrick. ["The Rise And Fall Of James Ray](https://spectropop.com/archive/digest/d1022.htm). [[Mirror]](./mirrors/biography-mick-patrick.md)
 
 Note: If one of those webpages is no more reachable, please use the [Wayback machine](https://archive.org/web).
