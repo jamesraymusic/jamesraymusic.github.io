@@ -53,14 +53,14 @@ Apollo owner [Frank Schiffman](https://sova.si.edu/record/NMAH.AC.0540) kept an 
 
 The card, dated 25th December, concisely tells us _Had hit record — very well received_. if the Schiffman assessment appears somewhat scant, it is worth remembering that the owner could often be quite scathing and unsparing in such comments, so clearly Ray was a success there, but he never appeared again. I suspect that by the time [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y) appeared on the Hot Hundred on 7th April, 1962, the diversions of his existence in New York may well have made the likelihood of a further Apollo invitation unlikely, although we do know from a New York Amsterdam News clipping of Saturday 14th July, 1962 that he appeared that weekend at the __Baby Grand club at 319, West 125th Street__, in company with the Soul Sisters, a duo who had a US Top Fifty hit two years later with _I Can’t Stand It_.
 
+__Caprice__ released three singles by Ray. The follow-up to the debut hit, [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y), followed _Fool_ onto the US charts and peaked at number 41 on Billboard in a ten-week run (number 55 Cashbox), both sides penned by Rudy Clark, but the third [A Miracle](https://www.youtube.com/watch?v=s9y2VSHu2I8), non-Clark, failed to chart.
+
 <div class="div-img">
 	<a href="../uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg">
 		<img class="img-bio" src="../uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg"/>
 	</a>
 	<p class="text-align-center caption">Vinyls records - Mike Fenton</p>
 </div>
-
-__Caprice__ released three singles by Ray. The follow-up to the debut hit, [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y), followed _Fool_ onto the US charts and peaked at number 41 on Billboard in a ten-week run (number 55 Cashbox), both sides penned by Rudy Clark, but the third [A Miracle](https://www.youtube.com/watch?v=s9y2VSHu2I8), non-Clark, failed to chart.
 
 James made a surprise contribution to another of Caprice’s hits when he contributed a punch-line on Janie Grants [That Greasy Kid Stuff](https://www.youtube.com/watch?v=TkVEuM_4lBE) (Caprice 115) which reached number 70 on Cashbox in June 1962. The song was a catchy spoof on the use of Vitalis hair tonic on which James delivered the spoken line: "Doctor Livingstone, I presume!".
 
