@@ -5,9 +5,9 @@ Mike Fenton recalls the short career of James Ray, with the help of the artist's
 
 __It's one of the most tragic and frustrating tales of the 1960s music industry, the classic example of a wasted talent, a young life thrown away in the lonely trajectory of a mysterious death. James Ray's star bumed brightly but brieﬂy - he was indeed, not just the _lost soul man_ in terms of his music, but also the proverbial _lost soul_ whose life could have contributed so much more given the right environment and sympathetic guidance. Virtually all I know of James Ray and his music comes from a fairly full collection of his recordings and the time spent with his mentor and label boss, my friend Gerry Granahan.__
 
-<div class="float-right">
+<div class="div-img">
 	<a href="../uploads/photos/full/cover-of-sheet-music.jpg">
-		<img src="../uploads/photos/full/cover-of-sheet-music.jpg"/>
+		<img class="img-bio" src="../uploads/photos/full/cover-of-sheet-music.jpg"/>
 	</a>
 	<p class="text-align-center caption">James Ray - Pye International records</p>
 </div>
@@ -24,9 +24,9 @@ Galliant was the authentic correct name, I believe, with a label address shown a
 
 Or were those discs on Gallant bootlegged copies? You see copies of the disc on-line with no composing credits listed on the label, and you wonder about the provenance of these. The plug side, [Make Her Mine](https://www.youtube.com/watch?v=r0ptmu3QHI8) was penned by Richard Barrett, he of Chantels mentorship, whereas [You Need To Fall In Love](https://www.youtube.com/watch?v=a21ujJ22t3s), the flip, was composed by Ray (_Raymond Ray_), ironically, in view of their vocal similarities, with a minor key styling lifted from Little Willie Johns _Fever_. The disc is impossibly rare and likely to be expensive if you ﬁnd a copy - a recent US dealer’s price on Discogs ran close to £200. As a debut disc, it was an impressive start, the voice unmistakeable with its tortured and groaning delivery.
 
-<div class="float-right">
+<div class="div-img">
 	<a href="../uploads/photos/full/garry-granahan-2.jpg">
-		<img src="../uploads/photos/full/garry-granahan-2.jpg"/>
+		<img class="img-bio" src="../uploads/photos/full/garry-granahan-2.jpg"/>
 	</a>
 	<p class="text-align-center caption">Gerry Granahan</p>
 </div>
@@ -44,18 +44,18 @@ We have no details of his precise appearances, but the normal form of that perio
 
 Apollo owner [Frank Schiffman](https://sova.si.edu/record/NMAH.AC.0540) kept an index card on every performer who appeared there, and his surviving card on Ray records that he was paid $500 (probably the weekly rate), and that the MC was Jocko (_The Ace From Outer Space_) Henderson, probably with one of his _Jocko’s Rocketship Revues_.
 
-<div class="float-right">
+<div class="div-img">
 	<a href="../uploads/photos/full/gettyimages-1179614864-2048x2048.jpg">
-		<img src="../uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"/>
+		<img class="img-bio" src="../uploads/photos/full/gettyimages-1179614864-2048x2048.jpg"/>
 	</a>
 	<p class="text-align-center caption">Apollo Theater - December 1961</p>
 </div>
 
 The card, dated 25th December, concisely tells us _Had hit record — very well received_. if the Schiffman assessment appears somewhat scant, it is worth remembering that the owner could often be quite scathing and unsparing in such comments, so clearly Ray was a success there, but he never appeared again. I suspect that by the time [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y) appeared on the Hot Hundred on 7th April, 1962, the diversions of his existence in New York may well have made the likelihood of a further Apollo invitation unlikely, although we do know from a New York Amsterdam News clipping of Saturday 14th July, 1962 that he appeared that weekend at the __Baby Grand club at 319, West 125th Street__, in company with the Soul Sisters, a duo who had a US Top Fifty hit two years later with _I Can’t Stand It_.
 
-<div class="float-right">
+<div class="div-img">
 	<a href="../uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg">
-		<img src="../uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg"/>
+		<img class="img-bio" src="../uploads/misc/blues_and_rythm/full/03_blues_and_rythm_351_august_2020_p9.jpg"/>
 	</a>
 	<p class="text-align-center caption">Vinyls records - Mike Fenton</p>
 </div>
@@ -75,9 +75,9 @@ probably stymied by Granahan closing the label down early in 1963.
 
 The Dynamic Sound 45 with just the sub-two minutes of [I've Got My Mind Set On You](https://www.youtube.com/watch?v=dSNbpBOf80A) remains a total mystery. It was nothing to do with Gerry Granahan, although the label looked similar to Caprice, black with arranger [Hutch Davies](https://en.wikipedia.org/wiki/Hutch_Davie) name in a little diamond. Granahan still has custody and ownership of all the Caprice masters, which begs the question, what was the source of the track used for the single?
 
-<div class="float-right">
+<div class="div-img">
 	<a href="../uploads/photos/full/hutch-davie-on-left-and-papa-don-schroeder.jpg">
-		<img src="../uploads/photos/full/hutch-davie-on-left-and-papa-don-schroeder.jpg"/>
+		<img class="img-bio" src="../uploads/photos/full/hutch-davie-on-left-and-papa-don-schroeder.jpg"/>
 	</a>
 	<p class="text-align-center caption">Hutch Davie (left) and Papa Don Shroeder (right)</p>
 </div>

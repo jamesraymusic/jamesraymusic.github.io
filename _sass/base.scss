@@ -146,11 +146,15 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
  * Misc
  */
 
-main p img {width: 100%; max-width: 400px; padding-left: 20px; }
 sup { vertical-align: super; font-size: smaller; padding-left: 20px;}
 table { width:100%; }
 
+.div-img { float: right; margin: 20px; }
+
 .img-home { float: right; width: 200px; padding-left: 20px; }
+.img-bio { width: 100%; max-width: 400px; padding-left: 20px; }
+
+.caption { margin-top: 0px; }
+
 .float-right { float: right; }
 .text-align-center { text-align: center; }
-.caption { margin-top: 0px; }
