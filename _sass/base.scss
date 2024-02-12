@@ -147,7 +147,11 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
  */
 
 sup { vertical-align: super; font-size: smaller; padding-left: 20px;}
-table { width:100%; }
+
+table { width:100%; text-align: left; }
+table td { padding: 0.75rem; border-bottom: 1px solid #dee2e6; }
+table thead th { vertical-align: bottom; border-bottom: 2px solid #000000; }
+.table-responsive { overflow-x: auto; }
 
 .div-img { float: right; margin: 20px; }
 
