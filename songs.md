@@ -8,8 +8,7 @@ permalink: /songs/
 
 James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) and Hutch Davie orchestra made great songs togethers. Most of them are availables in "[James Ray LP](https://www.discogs.com/release/3221079-James-Ray-James-Ray)" album or in the posthumous LP album named "[Itty Bitty Pieces](https://www.discogs.com/release/3016494-James-Ray-Itty-Bitty-Pieces)".
 <br>
-<div class=".table-responsive">
-
+<div class=".table-responsive" markdown="1">
 
 | Title | Writer(s) | Label(s) | Date | Document(s) |
 | --- | --- | --- | --- | --- |
@@ -39,6 +38,5 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | [On That Day](https://www.youtube.com/watch?v=Lg7g_tXujyg) | Northern, Briggs | Congress | July 1964 | [Lyrics](./lyrics/on-that-day.md) |
 | [(I'm Not) Guilty](https://www.youtube.com/watch?v=ErTy6JLe9c0) | Unkown | Charly | 1983 (posthumous) | [Lyrics](./lyrics/i-m-not-guilty.md) |
 | [I'm Gonna Keep On Trying](https://www.youtube.com/watch?v=qbvnqetOx5k) | Unkown | Charly | 1983 (posthumous) | [Lyrics](./lyrics/i-m-gonna-keep-on-trying.md) |
-
 
 </div>
