@@ -13,7 +13,7 @@ James Ray, [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) (main writer) 
 | Title | Writer(s) | Label(s) | Date | Document(s) |
 | --- | --- | --- | --- | --- |
 | [Make Her Mine](https://www.youtube.com/watch?v=r0ptmu3QHI8) | R. Barrett | Galliant | September 1959 |  [Lyrics](./lyrics/make-her-mine.md) |
-| [You Need To Fall In Love](https://www.youtube.com/watch?v=a21ujJ22t3s) | Raymond Ray | Galliant | September 1959 | [Lyrics](./lyrics/you-need-to-fall-in-love.md) |
+| [You Need To Fall In Love](https://www.youtube.com/watch?v=a21ujJ22t3s) | Raymond Ray, Little Jimmy Ray | Galliant | September 1959 | [Lyrics](./lyrics/you-need-to-fall-in-love.md) |
 | [If You Gotta Make A Fool Of Somebody](https://www.youtube.com/watch?v=sperNZW6A8k) | Rudy Clark | Caprice | October 1961 | [Lyrics](./lyrics/if-you-gotta-make-a-fool-of-somebody.md) |
 | [It's Been A Drag](https://www.youtube.com/watch?v=Z8zyY8Q37fk) | Rudy Clark | Caprice | October 1961 | [Lyrics](./lyrics/its-been-a-drag.md) |
 | [Itty Bitty Pieces](https://www.youtube.com/watch?v=56Tv8PjAF5Y) | Rudy Clark | Smash / Caprice | March 1962 | [Lyrics](./lyrics/itty-bitty-pieces.md) |
