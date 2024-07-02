@@ -4,6 +4,10 @@ title: Procrastination and the lost footage
 comments: true
 ---
 
+<style>
+    img { width: 100%; height: auto; padding: 10px; }
+</style>
+
 Since months now, i try to motivate myself to publish the content of several days of researchs, and today seems to be a good day (the french soccer team finally scored). 
 
 When i continued to search for informations, i have contacted several institutions/persons, the [McKinley high school](https://www.mckinleytech.org/), the [Apollo theater](https://www.apollotheater.org/), the [Amsterdam News](https://amsterdamnews.com/), several persons from [Rudy Clark](https://en.wikipedia.org/wiki/Rudy_Clark) family, and the owners of the [Steve Schapiro](https://en.wikipedia.org/wiki/Steve_Schapiro) website.
@@ -16,20 +20,15 @@ James Ray is born in Washington DC and as the Wikipedia page mention, he went to
 I walk through most of the yearbooks availables, and i found something in the [1955 yearbook](https://www.classmates.com/siteui/yearbooks/84119?page=99), where there is a photo of cadets with the name Ray.
 That's a cold comfort, but it could match with what i suspect as there is another mention of an US Army career, and we can clearly see that one of the cadet is below the average size (James Ray was 5' tall, ~1.52m, which explain it's earlier artist name, Little Jimmy Ray).
 
-![Photo of cadets from the McKinkey high school](/uploads/photos/full/mckinley_high_school_yearbook_1955_p99.jpg)
+<a href="{{ "/uploads/photos/full/mckinley_high_school_yearbook_1955_p99.jpg" | relative_url }}"><img src="{{ "/uploads/photos/full/mckinley_high_school_yearbook_1955_p99.jpg" | relative_url }}"/></a>
 
 I got a reply from the McKinley high school, thanks to Juan, but they didn't found any entries about a James Ray.
 
 From Apollo theater side, no specific records in their archives, except the fact that James Ray was present during the 22-29 December 1961.
 
-![Jock rocket show december 1961](/uploads/photos/full/gettyimages-1179614864-2048x2048.jpg)
+<a href="{{ "/uploads/photos/full/gettyimages-1179614864-2048x2048.jpg" | relative_url }}"><img src="{{ "/uploads/photos/full/gettyimages-1179614864-2048x2048.jpg" | relative_url }}"/></a>
 
 But they found two clippings (thanks to Brad) about James Ray, the first one is about the event organized by the WWRL radio with the Amsterdam News (Nicholas Arena), and the second one is related to an appearance in 1962 (New York Amsterdam News Jul 14, 1962) at the [Baby Grand café/bar](https://www.harlemworldmagazine.com/the-baby-grand-harlem-1953/), near the Apollo theater.
-
-<style>
-    .image-gallery { column-count: 2; }
-    img { width: 100%; height: auto; padding: 10px; }
-</style>
 
 <div class="image-gallery">
     <a href="{{ "/uploads/photos/full/new_york_amsterdam_news_july_14_1962.jpg" | relative_url }}"><img src="{{ "/uploads/photos/full/new_york_amsterdam_news_july_14_1962.jpg" | relative_url }}"/></a>
@@ -38,7 +37,7 @@ But they found two clippings (thanks to Brad) about James Ray, the first one is 
 
 I will put here a [photo issued from the Steve Schapiro collection](https://www.gettyimages.fr/detail/photo-d%27actualit%C3%A9/an-unidentified-man-leans-forward-as-he-applies-photo-dactualit%C3%A9/1179614847) (taken during the Apollo theater sessions in December 1961), as i have a serious doubt about the identity of the "unidentified" man (which appear too healthy to be James Ray if we take into account the description of Gerry Granahan).
 
-![The unidentified man (James Ray ?)](/uploads/photos/full/apollo_theater_december_1961_unidentified_man.jpg)
+<a href="{{ "/uploads/photos/full/apollo_theater_december_1961_unidentified_man.jpg" | relative_url }}"><img src="{{ "/uploads/photos/full/apollo_theater_december_1961_unidentified_man.jpg" | relative_url }}"/></a>
 
 Later on, i received a reply from Darby who work at the Amsterdam News, but unfortunately, they don't have any records related to the event at the Nicholas Arena.
 
