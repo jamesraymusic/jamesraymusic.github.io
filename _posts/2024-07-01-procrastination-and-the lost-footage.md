@@ -48,8 +48,6 @@ Facts en vrac:
 - "You need to fall in love" lyrics and music were written by James Ray according to the copyright record [[1](/uploads/photos/full/catalog-of-copyright-entries-july-december-1959-page-1687.jpg)], [[2](https://cocatalog.loc.gov/cgi-bin/doctitles.cgi?V3442D605)].
 - In another [Gerry Granahan interview]({{ "/gerry-granahan-by-todd-baptista/" | relative_url }}), the discussion between Gerry Granahan anf James Ray mother differs.
 
-
-
 Website updates:
 - whereisjamesray website is now available at whereisjamesray.net and whereisjamesray.com.
 - James Ray biography by Mike fenton is now the primary one.
