@@ -28,12 +28,7 @@ From Apollo theater side, no specific records in their archives, except the fact
 
 <a href="{{ "/uploads/photos/full/gettyimages-1179614864-2048x2048.jpg" | relative_url }}"><img src="{{ "/uploads/photos/full/gettyimages-1179614864-2048x2048.jpg" | relative_url }}"/></a>
 
-But they found two clippings (thanks to Brad) about James Ray, the first one is about the event organized by the WWRL radio with the Amsterdam News (Nicholas Arena), and the second one is related to an appearance in 1962 (New York Amsterdam News Jul 14, 1962) at the [Baby Grand café/bar](https://www.harlemworldmagazine.com/the-baby-grand-harlem-1953/), near the Apollo theater.
-
-<div class="image-gallery">
-    <a href="{{ "/uploads/photos/full/new_york_amsterdam_news_july_14_1962.jpg" | relative_url }}"><img src="{{ "/uploads/photos/full/new_york_amsterdam_news_july_14_1962.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/photos/full/wwrl_amsterdam_news.jpg" | relative_url }}"><img src="{{ "/uploads/photos/full/wwrl_amsterdam_news.jpg" | relative_url }}"/></a>
-</div>
+But they found two clippings (thanks to Brad) about James Ray, the [first one](/uploads/photos/full/wwrl_amsterdam_news.jpg) is about the event organized by the WWRL radio with the Amsterdam News (Nicholas Arena), and the [second one](/uploads/photos/full/new_york_amsterdam_news_july_14_1962.jpg) is related to an appearance in 1962 (New York Amsterdam News Jul 14, 1962) at the [Baby Grand café/bar](https://www.harlemworldmagazine.com/the-baby-grand-harlem-1953/), near the Apollo theater.
 
 I will put here a [photo issued from the Steve Schapiro collection](https://www.gettyimages.fr/detail/photo-d%27actualit%C3%A9/an-unidentified-man-leans-forward-as-he-applies-photo-dactualit%C3%A9/1179614847) (taken during the Apollo theater sessions in December 1961), as i have a serious doubt about the identity of the "unidentified" man (which appear too healthy to be James Ray if we take into account the description of Gerry Granahan).
 
@@ -51,7 +46,7 @@ It's a great disapointment, but maybe one day this video will be back from the d
 Facts en vrac:
 - James Ray did a show the 22 November 1961 at the [Syria Mosque](/uploads/photos/full/billboard-syria-mosque-pittsburgh-november-20-1961-page-39.jpg).
 - "You need to fall in love" lyrics and music were written by James Ray according to the copyright record [[1](/uploads/photos/full/catalog-of-copyright-entries-july-december-1959-page-1687.jpg)], [[2](https://cocatalog.loc.gov/cgi-bin/doctitles.cgi?V3442D605)].
-- In another [Gerry Granahan interview](../mirrors/gerry-granahan-by-todd-baptista.md), the discussion between Gerry Granahan anf James Ray mother differs.
+- In another [Gerry Granahan interview]({{ "/mirrors/gerry-granahan-by-todd-baptista.html" | relative_url }}), the discussion between Gerry Granahan anf James Ray mother differs.
 
 Website updates:
 - whereisjamesray website is now available at whereisjamesray.net and whereisjamesray.com.
@@ -64,3 +59,5 @@ Next steps:
 - Get a [ProQuest Historical Newspapers](https://about.proquest.com/en/products-services/pq-hist-news/) account.
 - Continue on Rudy Clark side.
 - Explore the [Gordon Anderson collection](https://digitalcollections.nypl.org/collections/gordon-anderson-collection#/?tab=about).
+
+Rémi.
