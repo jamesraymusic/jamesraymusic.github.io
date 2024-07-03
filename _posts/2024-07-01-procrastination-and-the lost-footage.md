@@ -51,7 +51,7 @@ It's a great disapointment, but maybe one day this video will be back from the d
 Facts en vrac:
 - James Ray did a show the 22 November 1961 at the [Syria Mosque](/uploads/photos/full/billboard-syria-mosque-pittsburgh-november-20-1961-page-39.jpg).
 - "You need to fall in love" lyrics and music were written by James Ray according to the copyright record [[1](/uploads/photos/full/catalog-of-copyright-entries-july-december-1959-page-1687.jpg)], [[2](https://cocatalog.loc.gov/cgi-bin/doctitles.cgi?V3442D605)].
-- In another [Gerry Granahan interview](../mirrors/gerry-granahan-by-todd-baptista.md), the discussion between Gerry Granahan anf James Ray mother differs.
+- In another [Gerry Granahan interview](../../../mirrors/gerry-granahan-by-todd-baptista.md), the discussion between Gerry Granahan anf James Ray mother differs.
 
 Website updates:
 - whereisjamesray website is now available at whereisjamesray.net and whereisjamesray.com.
