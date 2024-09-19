@@ -46,7 +46,7 @@ A reference on the Wikipedia page lead me to obtain a copy of the magazine [Blue
 
 I will conclude with last things done on the website:
 - Biography page now includes all James Ray biographies found over the web and from Blues and Rythm.
-- whereisjamesray repo was forked on [jamesraymusic.github.io](jamesraymusic.github.io) (for domain name purpose).
-- The domain name [whereisjamesray.net](whereisjamesray.net) can be used (instead of [remidebord.github.io/whereisjamesray](remidebord.github.io/whereisjamesray) or [jamesraymusic.github.io](jamesraymusic.github.io)).
+- whereisjamesray repo was forked on [jamesraymusic.github.io](https://jamesraymusic.github.io/) (for domain name purpose).
+- The domain name [whereisjamesray.net](https://whereisjamesray.net/) can be used (instead of [remidebord.github.io/whereisjamesray](https://remidebord.github.io/whereisjamesray/) or [jamesraymusic.github.io](https://jamesraymusic.github.io/)).
 
 Rémi.
