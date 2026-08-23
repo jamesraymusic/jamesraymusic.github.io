@@ -20,7 +20,7 @@ header_pages:
 footer: 'follow us on <a href="https://youtube.com/@remidebord9237?si=uOFLTH6eOAEXN1DA">youtube</a> and <a href="https://twitter.com/">twitter</a>'
 
 style: light
-#listen_for_clients_preferred_style: true # true or false (default)
+listen_for_clients_preferred_style: true # true or false (default)
 
 # Comments
 disqus:
